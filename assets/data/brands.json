@@ -1,17 +1,87 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "arnold",
+        "name": "Arnold",
+        "slug": "arnold",
+        "productCategory": "Arnold",
+        "localThumb": "/assets/images/hersteller/arnold.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "mtd",
+        "name": "MTD",
+        "slug": "mtd",
+        "productCategory": "MTD",
+        "localThumb": "/assets/images/hersteller/mtd.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
+    },
+    {
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
+    },
+    {
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
+    },
+    {
+        "key": "yardforce",
+        "name": "Yardforce",
+        "slug": "yardforce",
+        "productCategory": "Yardforce",
+        "localThumb": "/assets/images/hersteller/yardforce.webp"
+    },
+    {
+        "key": "black+decker",
+        "name": "Black+Decker",
+        "slug": "black-decker",
+        "productCategory": "Black+Decker",
+        "localThumb": "/assets/images/hersteller/black-decker.webp"
+    },
+    {
+        "key": "worx",
+        "name": "Worx",
+        "slug": "worx",
+        "productCategory": "Worx",
+        "localThumb": "/assets/images/hersteller/worx.webp"
+    },
+    {
+        "key": "aspen",
+        "name": "Aspen",
+        "slug": "aspen",
+        "productCategory": "Aspen",
+        "localThumb": "/assets/images/hersteller/aspen.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "landxcape",
+        "name": "LandXcape",
+        "slug": "landxcape",
+        "productCategory": "LandXcape",
+        "localThumb": "/assets/images/hersteller/landxcape.webp"
     },
     {
         "key": "sonstige",
@@ -21,39 +91,39 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "wolf garten",
+        "name": "Wolf Garten",
+        "slug": "wolf-garten",
+        "productCategory": "Wolf Garten",
+        "localThumb": "/assets/images/hersteller/wolf-garten.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "fiskars",
+        "name": "Fiskars",
+        "slug": "fiskars",
+        "productCategory": "Fiskars",
+        "localThumb": "/assets/images/hersteller/fiskars.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "mcculloch",
+        "name": "McCulloch",
+        "slug": "mcculloch",
+        "productCategory": "McCulloch",
+        "localThumb": "/assets/images/hersteller/mcculloch.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "biohort",
+        "name": "Biohort",
+        "slug": "biohort",
+        "productCategory": "Biohort",
+        "localThumb": "/assets/images/hersteller/biohort.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "weka",
+        "name": "Weka",
+        "slug": "weka",
+        "productCategory": "Weka",
+        "localThumb": "/assets/images/hersteller/weka.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +133,59 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "al-ko",
+        "name": "Al-Ko",
+        "slug": "al-ko",
+        "productCategory": "Al-Ko",
+        "localThumb": "/assets/images/hersteller/al-ko.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "stiga",
+        "name": "Stiga",
+        "slug": "stiga",
+        "productCategory": "Stiga",
+        "localThumb": "/assets/images/hersteller/stiga.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "hyundai",
+        "name": "hyundai",
+        "slug": "hyundai",
+        "productCategory": "hyundai",
+        "localThumb": "/assets/images/hersteller/hyundai.webp"
+    },
+    {
+        "key": "kärcher",
+        "name": "Kärcher",
+        "slug": "kaercher",
+        "productCategory": "Kärcher",
+        "localThumb": "/assets/images/hersteller/kaercher.webp"
+    },
+    {
+        "key": "robomow",
+        "name": "Robomow",
+        "slug": "robomow",
+        "productCategory": "Robomow",
+        "localThumb": "/assets/images/hersteller/robomow.webp"
+    },
+    {
+        "key": "briggs & stratton",
+        "name": "Briggs & Stratton",
+        "slug": "briggs-stratton",
+        "productCategory": "Briggs & Stratton",
+        "localThumb": "/assets/images/hersteller/briggs-stratton.webp"
+    },
+    {
+        "key": "duramax",
+        "name": "Duramax",
+        "slug": "duramax",
+        "productCategory": "Duramax",
+        "localThumb": "/assets/images/hersteller/duramax.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
     }
 ]

@@ -1,107 +1,240 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "rasentraktoren & zubehör",
+        "name": "Rasentraktoren & Zubehör",
+        "slug": "rasentraktoren-zubehor",
+        "productCategory": "Rasentraktoren & Zubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "zubehör für rasentraktoren",
+        "name": "Zubehör für Rasentraktoren",
+        "slug": "zubehor-fur-rasentraktoren",
+        "productCategory": "Zubehör für Rasentraktoren",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "rasenmäher",
+        "name": "Rasenmäher",
+        "slug": "rasenmaher",
+        "productCategory": "Rasenmäher",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "akku-rasenmäher",
+        "name": "Akku-Rasenmäher",
+        "slug": "akku-rasenmaher",
+        "productCategory": "Akku-Rasenmäher",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "rasentrimmer & sensen",
+        "name": "Rasentrimmer & Sensen",
+        "slug": "rasentrimmer-sensen",
+        "productCategory": "Rasentrimmer & Sensen",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "elektro-trimmer & sensen",
+        "name": "Elektro-Trimmer & Sensen",
+        "slug": "elektro-trimmer-sensen",
+        "productCategory": "Elektro-Trimmer & Sensen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "akku-trimmer",
+        "name": "Akku-Trimmer",
+        "slug": "akku-trimmer",
+        "productCategory": "Akku-Trimmer",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "elektro-rasenmäher",
+        "name": "Elektro-Rasenmäher",
+        "slug": "elektro-rasenmaher",
+        "productCategory": "Elektro-Rasenmäher",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "mähroboter",
+        "name": "Mähroboter",
+        "slug": "mahroboter",
+        "productCategory": "Mähroboter",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "mährobotergaragen",
+        "name": "Mährobotergaragen",
+        "slug": "mahrobotergaragen",
+        "productCategory": "Mährobotergaragen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "kettensägen",
+        "name": "Kettensägen",
+        "slug": "kettensagen",
+        "productCategory": "Kettensägen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "zubehör für kettensägen",
+        "name": "Zubehör für Kettensägen",
+        "slug": "zubehor-fur-kettensagen",
+        "productCategory": "Zubehör für Kettensägen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "heckenscheren",
+        "name": "Heckenscheren",
+        "slug": "heckenscheren",
+        "productCategory": "Heckenscheren",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "akku-heckenscheren",
+        "name": "Akku-Heckenscheren",
+        "slug": "akku-heckenscheren",
+        "productCategory": "Akku-Heckenscheren",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "zubehör für rasenmäher",
+        "name": "Zubehör für Rasenmäher",
+        "slug": "zubehor-fur-rasenmaher",
+        "productCategory": "Zubehör für Rasenmäher",
+        "subCategories": []
+    },
+    {
+        "key": "hand-heckenscheren",
+        "name": "Hand-Heckenscheren",
+        "slug": "hand-heckenscheren",
+        "productCategory": "Hand-Heckenscheren",
+        "subCategories": []
+    },
+    {
+        "key": "vertikutierer & rasenlüfter",
+        "name": "Vertikutierer & Rasenlüfter",
+        "slug": "vertikutierer-rasenlufter",
+        "productCategory": "Vertikutierer & Rasenlüfter",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-vertikutierer",
+        "name": "Elektro-Vertikutierer",
+        "slug": "elektro-vertikutierer",
+        "productCategory": "Elektro-Vertikutierer",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-kettensägen",
+        "name": "Elektro-Kettensägen",
+        "slug": "elektro-kettensagen",
+        "productCategory": "Elektro-Kettensägen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für heckenscheren",
+        "name": "Zubehör für Heckenscheren",
+        "slug": "zubehor-fur-heckenscheren",
+        "productCategory": "Zubehör für Heckenscheren",
+        "subCategories": []
+    },
+    {
+        "key": "akku-kettensägen",
+        "name": "Akku-Kettensägen",
+        "slug": "akku-kettensagen",
+        "productCategory": "Akku-Kettensägen",
+        "subCategories": []
+    },
+    {
+        "key": "laubsauger & laubbläser",
+        "name": "Laubsauger & Laubbläser",
+        "slug": "laubsauger-laubblaser",
+        "productCategory": "Laubsauger & Laubbläser",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-laubsauger & laubbläser",
+        "name": "Elektro-Laubsauger & Laubbläser",
+        "slug": "elektro-laubsauger-laubblaser",
+        "productCategory": "Elektro-Laubsauger & Laubbläser",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-heckenscheren",
+        "name": "Elektro-Heckenscheren",
+        "slug": "elektro-heckenscheren",
+        "productCategory": "Elektro-Heckenscheren",
+        "subCategories": []
+    },
+    {
+        "key": "akku-laubsauger & laubbläser",
+        "name": "Akku-Laubsauger & Laubbläser",
+        "slug": "akku-laubsauger-laubblaser",
+        "productCategory": "Akku-Laubsauger & Laubbläser",
+        "subCategories": []
+    },
+    {
+        "key": "grasscheren & strauchscheren",
+        "name": "Grasscheren & Strauchscheren",
+        "slug": "grasscheren-strauchscheren",
+        "productCategory": "Grasscheren & Strauchscheren",
+        "subCategories": []
+    },
+    {
+        "key": "hochentaster & astsägen",
+        "name": "Hochentaster & Astsägen",
+        "slug": "hochentaster-astsagen",
+        "productCategory": "Hochentaster & Astsägen",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für rasentrimmer & sensen",
+        "name": "Zubehör für Rasentrimmer & Sensen",
+        "slug": "zubehor-fur-rasentrimmer-sensen",
+        "productCategory": "Zubehör für Rasentrimmer & Sensen",
+        "subCategories": []
+    },
+    {
+        "key": "hand-rasenmäher",
+        "name": "Hand-Rasenmäher",
+        "slug": "hand-rasenmaher",
+        "productCategory": "Hand-Rasenmäher",
+        "subCategories": []
+    },
+    {
+        "key": "motorhacken",
+        "name": "Motorhacken",
+        "slug": "motorhacken",
+        "productCategory": "Motorhacken",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-motorhacken",
+        "name": "Elektro-Motorhacken",
+        "slug": "elektro-motorhacken",
+        "productCategory": "Elektro-Motorhacken",
+        "subCategories": []
+    },
+    {
+        "key": "benzin-kettensägen",
+        "name": "Benzin-Kettensägen",
+        "slug": "benzin-kettensagen",
+        "productCategory": "Benzin-Kettensägen",
+        "subCategories": []
+    },
+    {
+        "key": "häcksler",
+        "name": "Häcksler",
+        "slug": "hacksler",
+        "productCategory": "Häcksler",
+        "subCategories": []
+    },
+    {
+        "key": "elektro-häcksler",
+        "name": "Elektro-Häcksler",
+        "slug": "elektro-hacksler",
+        "productCategory": "Elektro-Häcksler",
         "subCategories": []
     }
 ]
