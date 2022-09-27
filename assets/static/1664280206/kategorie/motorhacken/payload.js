@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/motorhacken", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/einhell-power-x-change-akku-bodenhacke-ge-cr-18-20-li-e-solo-einhell-6982573-1.jpg":"\u002Fassets\u002Fimages\u002Feinhell-power-x-change-akku-bodenhacke-ge-cr-18-20-li-e-solo-einhell-6982573-1.webp"}}],fetch:{},mutations:void 0});
