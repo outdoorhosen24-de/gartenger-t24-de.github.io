@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/biohort", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/biohort-robotergarage-charly-gr-1-hxbxt-49-cm-x-58-cm-x-70-cm-biohort-9543646-1.jpg":"\u002Fassets\u002Fimages\u002Fbiohort-robotergarage-charly-gr-1-hxbxt-49-cm-x-58-cm-x-70-cm-biohort-9543646-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/dobar", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/dobar-maehrobotergarage-mit-abnehmbarem-dach-braun-schwarz-525-x-785-x-74-cm-dobar-8539298-1.jpg":"\u002Fassets\u002Fimages\u002Fdobar-maehrobotergarage-mit-abnehmbarem-dach-braun-schwarz-525-x-785-x-74-cm-dobar-8539298-1.webp"}}],fetch:{},mutations:void 0});

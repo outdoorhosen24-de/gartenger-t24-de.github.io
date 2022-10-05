@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/elektro-hacksler", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/bosch-elektro-haecksler-axt-rapid-2200-mit-2-200-w-bosch-9875584-1.jpg":"\u002Fassets\u002Fimages\u002Fbosch-elektro-haecksler-axt-rapid-2200-mit-2-200-w-bosch-9875584-1.webp"}}],fetch:{},mutations:void 0});
