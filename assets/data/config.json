@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenger\u00e4t24.de",
+    "hostname": "https://www.gartenger\u00e4t24.de/",
+    "email": "gartenger\u00e4t24.desurrealnetworks.io",
+    "organization": "gartenger\u00e4t24.de",
+    "logoText": "Gartenger\u00e4t24.de",
+    "title": "Gartenger\u00e4te & Gartenmaschinen",
+    "subline": "Der Online Shop f\u00fcr Gartenger\u00e4te & Gartenmaschinen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "8382897",
+        "4867842",
+        "1647445",
+        "3423837",
+        "9588534",
+        "4476883"
+    ],
+    "winnerProducts": [
+        "7443070",
+        "8713141",
+        "9410275"
+    ],
+    "featuredCategories": [
+        "Akku-Heckenscheren",
+        "Akku-Laubsauger & Laubbl\u00e4ser",
+        "Rasentraktoren & Zubeh\u00f6r",
+        "Rasenm\u00e4her",
+        "Vertikutierer & Rasenl\u00fcfter",
+        "Rasenm\u00e4her"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenger\u00e4te & Gartenmaschinen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Gartenger\u00e4te- und Gartenmaschinen-Shop ist ein Fachgesch\u00e4ft f\u00fcr Gartenbedarf. Hier finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Vom Rasenm\u00e4her \u00fcber die Gartenschaufel bis hin zur Gartenfr\u00e4se. Wir f\u00fchren auch eine gro\u00dfe Auswahl an Gartenzubeh\u00f6r wie Gartenschl\u00e4uche, Gartenpumpen und Gartensprinkler.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenger\u00e4te & Gartenmaschinen",
+            "metaDescription": "Gartenger\u00e4te & Gartenmaschinen - alles f\u00fcr Ihren Garten! Rasenm\u00e4her, Heckenscheren, Laubsauger und vieles mehr.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenger\u00e4te & Gartenmaschinen",
+                    "text": "Gartenger\u00e4te und Gartenmaschinen sind unerl\u00e4sslich, wenn es darum geht, den Garten in Schuss zu halten. Ob es darum geht, Unkraut zu j\u00e4ten, den Rasen zu m\u00e4hen oder die B\u00e4ume zu schneiden - mit den richtigen Ger\u00e4ten ist die Arbeit im Garten viel einfacher und schneller erledigt. Doch welche Ger\u00e4te und Maschinen sind wirklich n\u00f6tig, um den Garten in Ordnung zu halten?\n\nZu den unverzichtbaren Gartenger\u00e4ten geh\u00f6rt zun\u00e4chst einmal eine Harke. Damit l\u00e4sst sich Unkraut j\u00e4ten und der Boden lockern, bevor es zu sp\u00e4t ist. Auch ein Rechen ist n\u00fctzlich, um das Laub im Herbst zu sammeln und im Fr\u00fchjahr den Rasen zu vertikutieren. Ein Spaten ist ebenfalls unerl\u00e4sslich, wenn es darum geht, Pflanzen umzutopfen oder neue Pflanzen einzusetzen.\n\nWer einen Rasen hat, kommt um einen Rasenm\u00e4her nicht herum. Hier gibt es verschiedene Modelle, von der Handrasenm\u00e4her \u00fcber den Akku-Rasenm\u00e4her bis hin zum Benzin-Rasenm\u00e4her. Welches Modell am besten geeignet ist, h\u00e4ngt von der Gr\u00f6\u00dfe des Rasens ab. F\u00fcr kleinere Rasenfl\u00e4chen reicht meist ein Handrasenm\u00e4her aus, f\u00fcr gr\u00f6\u00dfere Fl\u00e4chen ist jedoch ein Akku- oder Benzin-Rasenm\u00e4her zu empfehlen.\n\nEbenfalls n\u00fctzlich ist ein Laubbl\u00e4ser. Damit l\u00e4sst sich das Laub"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenger\u00e4te & Gartenmaschinen shop",
+            "metaDescription": "Gartenger\u00e4te & Gartenmaschinen Shop - Alles f\u00fcr Ihren Garten! Rasenm\u00e4her, Laubsauger, Heckenscheren & mehr.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenger\u00e4te & Gartenmaschinen - Hersteller",
+            "metaDescription": "Gartenger\u00e4te & Gartenmaschinen - Finden Sie den passenden Hersteller f\u00fcr Ihren Bedarf.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Gartenger\u00e4te & Gartenmaschinen",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gartenger\u00e4te & Gartenmaschinen. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Gartenger\u00e4te & Gartenmaschinen",
+        "defaultMetaDescription": "Gartenger\u00e4te & Gartenmaschinen f\u00fcr jeden Bedarf - $KATEGORIE bei OBI kaufen!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Gartenger\u00e4te und Gartenmaschinen. Wir bieten Ihnen eine gro\u00dfe Auswahl an hochwertigen Ger\u00e4ten zu fairen Preisen.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenger\u00e4te & Gartenmaschinen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenger\u00e4te & Gartenmaschinen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenger\u00e4te & Gartenmaschinen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
