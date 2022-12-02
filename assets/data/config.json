@@ -51,12 +51,15 @@
             "title": "Gartengeräte & Gartenmaschinen",
             "metaDescription": "Gartengeräte & Gartenmaschinen - alles für Ihren Garten! Rasenmäher, Heckenscheren, Laubsauger und vieles mehr.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartengeräte & Gartenmaschinen",
-                    "text": "Gartengeräte und Gartenmaschinen sind unerlässlich, wenn es darum geht, den Garten in Schuss zu halten. Ob es darum geht, Unkraut zu jäten, den Rasen zu mähen oder die Bäume zu schneiden - mit den richtigen Geräten ist die Arbeit im Garten viel einfacher und schneller erledigt. Doch welche Geräte und Maschinen sind wirklich nötig, um den Garten in Ordnung zu halten?\n\nZu den unverzichtbaren Gartengeräten gehört zunächst einmal eine Harke. Damit lässt sich Unkraut jäten und der Boden lockern, bevor es zu spät ist. Auch ein Rechen ist nützlich, um das Laub im Herbst zu sammeln und im Frühjahr den Rasen zu vertikutieren. Ein Spaten ist ebenfalls unerlässlich, wenn es darum geht, Pflanzen umzutopfen oder neue Pflanzen einzusetzen.\n\nWer einen Rasen hat, kommt um einen Rasenmäher nicht herum. Hier gibt es verschiedene Modelle, von der Handrasenmäher über den Akku-Rasenmäher bis hin zum Benzin-Rasenmäher. Welches Modell am besten geeignet ist, hängt von der Größe des Rasens ab. Für kleinere Rasenflächen reicht meist ein Handrasenmäher aus, für größere Flächen ist jedoch ein Akku- oder Benzin-Rasenmäher zu empfehlen.\n\nEbenfalls nützlich ist ein Laubbläser. Damit lässt sich das Laub"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartengeräte & Gartenmaschinen",
+                        "text": "Gartengeräte und Gartenmaschinen sind unerlässlich, wenn es darum geht, den Garten in Schuss zu halten. Ob es darum geht, Unkraut zu jäten, den Rasen zu mähen oder die Bäume zu schneiden - mit den richtigen Geräten ist die Arbeit im Garten viel einfacher und schneller erledigt. Doch welche Geräte und Maschinen sind wirklich nötig, um den Garten in Ordnung zu halten?\n\nZu den unverzichtbaren Gartengeräten gehört zunächst einmal eine Harke. Damit lässt sich Unkraut jäten und der Boden lockern, bevor es zu spät ist. Auch ein Rechen ist nützlich, um das Laub im Herbst zu sammeln und im Frühjahr den Rasen zu vertikutieren. Ein Spaten ist ebenfalls unerlässlich, wenn es darum geht, Pflanzen umzutopfen oder neue Pflanzen einzusetzen.\n\nWer einen Rasen hat, kommt um einen Rasenmäher nicht herum. Hier gibt es verschiedene Modelle, von der Handrasenmäher über den Akku-Rasenmäher bis hin zum Benzin-Rasenmäher. Welches Modell am besten geeignet ist, hängt von der Größe des Rasens ab. Für kleinere Rasenflächen reicht meist ein Handrasenmäher aus, für größere Flächen ist jedoch ein Akku- oder Benzin-Rasenmäher zu empfehlen.\n\nEbenfalls nützlich ist ein Laubbläser. Damit lässt sich das Laub"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartengeräte & Gartenmaschinen shop",
