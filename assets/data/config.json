@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartengerät24.de",
     "hostname": "https://www.gartengerät24.de/",
     "email": "gartengerät24.de@surrealnetworks.io",
     "organization": "gartengerät24.de",
     "logoText": "Gartengerät24.de",
     "title": "Gartengeräte & Gartenmaschinen",
-    "subline": "Der Online Shop für Gartengeräte & Gartenmaschinen",
+    "subline": "Der Online Shop für die Gartenarbeit ",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartengeräte & Gartenmaschinen",
-        "featureText": "Die Gartengeräte- und Gartenmaschinen-Shop ist ein Fachgeschäft für Gartenbedarf. Hier finden Sie alles, was Sie für Ihren Garten benötigen. Vom Rasenmäher über die Gartenschaufel bis hin zur Gartenfräse. Wir führen auch eine große Auswahl an Gartenzubehör wie Gartenschläuche, Gartenpumpen und Gartensprinkler.",
+        "featureText": "Willkommen in unserem Shop! Wir haben uns auf Gartengeräte- und maschinen spezialisert. Bei uns finden Sie ein umfangreiches Sortiment, dessen Darstellung einfach und übersichtlich gestaltet ist. Über die Liste der Kategorien finden Sie schnell zu Ihrem Wunschprodukt. Klicken Sie sich durch unser Sortiment, bestellen Sie zu fairen Preisen und gelangen Sie so ein Stück näher an einen schönen Garten! ",
         "index": {
-            "title": "Gartengeräte & Gartenmaschinen",
-            "metaDescription": "Gartengeräte & Gartenmaschinen - alles für Ihren Garten! Rasenmäher, Heckenscheren, Laubsauger und vieles mehr.",
+            "title": "Gartengeräte & Gartenmaschinen online kaufen",
+            "metaDescription": "Rasenmäher • Mähroboter • Heckenscheren • Vertekutierer • Kettensägen • Laubsauger • Rasentrimmer & -sensen • Astsägen • Zubehör uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartengeräte & Gartenmaschinen shop",
-            "metaDescription": "Gartengeräte & Gartenmaschinen Shop - Alles für Ihren Garten! Rasenmäher, Laubsauger, Heckenscheren & mehr.",
+            "title": "Ihr Online Shop für Gartengeräte & Gartenmaschinen ",
+            "metaDescription": "Riesige Auswahl an Gartengeräten & Gartenmaschinen im Shop: Rasenmäher, Heckenscheren, Laubsuager & mehr | einfache Produktsuche | schnelle Lieferung ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartengeräte & Gartenmaschinen - Hersteller",
-            "metaDescription": "Gartengeräte & Gartenmaschinen - Finden Sie den passenden Hersteller für Ihren Bedarf.",
+            "title": "Hersteller für Gartengeräte & Gartenmaschinen ",
+            "metaDescription": "Bei uns finden Sie all unsere Hersteller für Gartengeräte & Gartenmaschinen in einem Überblick | darunter: Bosch, Makita, Einhell, Gardena, Fiskars uvm. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Gartengeräte & Gartenmaschinen",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gartengeräte & Gartenmaschinen. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT - einfach online bestellen",
+        "defaultMetaDescription": "$PRODUKT | Gartengeräte & Gartenmaschinen von $HERSTELLER bei uns im Shop | Entdecken Sie weiter tolle Produkte zum Thema $KATEGORIE!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gartengeräte & Gartenmaschinen",
-        "defaultMetaDescription": "Gartengeräte & Gartenmaschinen für jeden Bedarf - $KATEGORIE bei OBI kaufen!",
+        "defaultTitle": "$KATEGORIE - eine große Auswahl",
+        "defaultMetaDescription": "$KATEGORIE bei uns günstig kaufen! Gartengeräte & Gartenmaschinen für jeden Anwendungsbereich | Hochwertige Produkte | Schnelle Lieferung.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Gartengeräte und Gartenmaschinen. Wir bieten Ihnen eine große Auswahl an hochwertigen Geräten zu fairen Preisen.",
+        "defaultTitle": "$HERSTELLER - Marktführer für Gartengeräte & Gartenmaschinen",
+        "defaultMetaDescription": "$HERSTELLER ist einer von vielen Top Herstellern in unserem Angebot! | Finden Sie ausgewählte Markenprodukte in unserem Shop! | Bestellen Sie zu fairen Preisen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
