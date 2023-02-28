@@ -52,11 +52,147 @@
             "metaDescription": "Rasenmäher • Mähroboter • Heckenscheren • Vertekutierer • Kettensägen • Laubsauger • Rasentrimmer & -sensen • Astsägen • Zubehör uvm. ",
             "robots": "index, follow",
             "seotext": {
-                "published": false,
+                "published": true,
                 "content": [
                     {
-                        "title": "Gartengeräte & Gartenmaschinen",
-                        "text": "Gartengeräte und Gartenmaschinen sind unerlässlich, wenn es darum geht, den Garten in Schuss zu halten. Ob es darum geht, Unkraut zu jäten, den Rasen zu mähen oder die Bäume zu schneiden - mit den richtigen Geräten ist die Arbeit im Garten viel einfacher und schneller erledigt. Doch welche Geräte und Maschinen sind wirklich nötig, um den Garten in Ordnung zu halten?\n\nZu den unverzichtbaren Gartengeräten gehört zunächst einmal eine Harke. Damit lässt sich Unkraut jäten und der Boden lockern, bevor es zu spät ist. Auch ein Rechen ist nützlich, um das Laub im Herbst zu sammeln und im Frühjahr den Rasen zu vertikutieren. Ein Spaten ist ebenfalls unerlässlich, wenn es darum geht, Pflanzen umzutopfen oder neue Pflanzen einzusetzen.\n\nWer einen Rasen hat, kommt um einen Rasenmäher nicht herum. Hier gibt es verschiedene Modelle, von der Handrasenmäher über den Akku-Rasenmäher bis hin zum Benzin-Rasenmäher. Welches Modell am besten geeignet ist, hängt von der Größe des Rasens ab. Für kleinere Rasenflächen reicht meist ein Handrasenmäher aus, für größere Flächen ist jedoch ein Akku- oder Benzin-Rasenmäher zu empfehlen.\n\nEbenfalls nützlich ist ein Laubbläser. Damit lässt sich das Laub"
+                        "title": "Willkommen bei Gartengerät24!",
+                        "text": "Wir bei Gartengerät24 sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Gartengeräten und Gartenmaschinen anbieten zu können. Von Rasentraktoren und Zubehör bis hin zu Mährobotern und Garagen, wir haben alles, was Sie für Ihren Garten benötigen. Unsere Produkte sind von höchster Qualität und werden Sie bei der Pflege Ihres Gartens unterstützen. Stöbern Sie durch unsere Kategorien wie Rasentraktoren & Zubehör, Rasenmäher, Akku-Rasenmäher, Rasentrimmer & Sensen und viele mehr, um das perfekte Gerät für Ihre Bedürfnisse zu finden. Wir sind stets bemüht, Ihnen ein hervorragendes Einkaufserlebnis zu bieten und stehen Ihnen jederzeit zur Verfügung, falls Sie Fragen oder Anregungen haben. Besuchen Sie uns jetzt und entdecken Sie das Beste für Ihren Garten!"
+                    },
+                    {
+                        "title": "Rasentraktoren & Zubehör",
+                        "text": "Entdecken Sie unser breites Angebot an Rasentraktoren und Zubehör bei Gartengerät24. Unsere hochwertigen Rasentraktoren sind ideal für große Gärten und bieten Ihnen die Möglichkeit, Ihren Rasen bequem und effizient zu pflegen. Unser Zubehör, wie Anhänger, Gartengerätehalter und mehr, unterstützt Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und finden Sie das perfekte Set für Ihren Garten!"
+                    },
+                    {
+                        "title": "Zubehör für Rasentraktoren",
+                        "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasentraktoren/\" title=\"Zubehör für Rasentraktoren\">Zubehör für Rasentraktoren</a> bei Gartengerät24. Unsere hochwertigen Anhänger, Gartengerätehalter und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihren Rasentraktor!"
+                    },
+                    {
+                        "title": "Rasenmäher",
+                        "text": "Bei Gartengerät24 finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/rasenmaeher/\" title=\"Rasenmäher\">Rasenmäher</a>n. Unsere Elektro- und Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Akku-Rasenmäher",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-rasenmaeher/\" title=\"Akku-Rasenmäher\">Akku-Rasenmäher</a>n bei Gartengerät24. Unsere Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Akku-Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Rasentrimmer & Sensen",
+                        "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserer Auswahl an Rasentrimmern und Sensen bei Gartengerät24. Unsere Elektro- und Akku-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Besuchen Sie uns jetzt und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Trimmer & Sensen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen Elektro-Trimmern und Sensen bei Gartengerät24. Unsere Elektro-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Akku-Trimmer",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-trimmer/\" title=\"Akku-Trimmer\">Akku-Trimmer</a>n bei Gartengerät24. Unsere Akku-Trimmer bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Rasenmäher",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-rasenmaeher/\" title=\"Elektro-Rasenmäher\">Elektro-Rasenmäher</a>n bei Gartengerät24. Unsere Elektro-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Mähroboter",
+                        "text": "Entdecken Sie die Zukunft der Gartenpflege mit unseren <a href=\"/kategorie/maehroboter/\" title=\"Mähroboter\">Mähroboter</a>n bei Gartengerät24. Unsere hochwertigen Mähroboter erledigen die Arbeit für Sie, sodass Sie sich entspannen und Ihren Garten genießen können. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Mähroboter für Ihren Garten!"
+                    },
+                    {
+                        "title": "Mährobotergaragen",
+                        "text": "Schützen Sie Ihren Mähroboter vor den Elementen mit unseren hochwertigen <a href=\"/kategorie/maehrobotergaragen/\" title=\"Mährobotergaragen\">Mährobotergaragen</a> bei Gartengerät24. Unsere Garagen bieten Ihrem Mähroboter Schutz vor Regen, Schnee und anderen Wettereinflüssen, damit er immer bereit ist, seine Arbeit zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Garage für Ihren Mähroboter!"
+                    },
+                    {
+                        "title": "Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/kettensaegen/\" title=\"Kettensägen\">Kettensägen</a> bei Gartengerät24. Unsere Kettensägen sind ideal für alle Holzarbeiten im Garten und bieten Ihnen die Möglichkeit, Ihre Bäume und Äste schnell und effizient zu bearbeiten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Kettensägen",
+                        "text": "Verbessern Sie Ihre Arbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-kettensaegen/\" title=\"Zubehör für Kettensägen\">Zubehör für Kettensägen</a> bei Gartengerät24. Unsere hochwertigen Klingenschutz, Öl und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihrer Kettensäge. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihre Kettensäge!"
+                    },
+                    {
+                        "title": "Heckenscheren",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/heckenscheren/\" title=\"Heckenscheren\">Heckenscheren</a> bei Gartengerät24. Unsere Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Akku-Heckenscheren",
+                        "text": "Entdecken Sie die Flexibilität von <a href=\"/kategorie/akku-heckenscheren/\" title=\"Akku-Heckenscheren\">Akku-Heckenscheren</a> bei Gartengerät24. Unsere hochwertigen Akku-Heckenscheren bieten Ihnen die Freiheit, Ihre Hecke zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Rasenmäher",
+                        "text": "Optimieren Sie Ihre Gartenarbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasenmaeher/\" title=\"Zubehör für Rasenmäher\">Zubehör für Rasenmäher</a> bei Gartengerät24. Von Messern und Öl bis hin zu Schutzhauben und Mulchmessern bieten wir alles, was Sie für eine effiziente und erfolgreiche Rasenpflege benötigen. Besuchen Sie uns jetzt und finden Sie das perfekte Zubehör für Ihren Rasenmäher!"
+                    },
+                    {
+                        "title": "Hand-Heckenscheren",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/hand-heckenscheren/\" title=\"Hand-Heckenscheren\">Hand-Heckenscheren</a> bei Gartengerät24. Unsere Hand-Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Hand-Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Vertikutierer & Rasenlüfter",
+                        "text": "Verbessern Sie die Gesundheit Ihres Rasens mit unseren hochwertigen Vertikutierern & Rasenlüftern bei Gartengerät24. Unsere Geräte entfernen effektiv Moos und totes Gras, damit Ihr Rasen wieder atmen und gedeihen kann. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Vertikutierer oder Rasenlüfter für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Vertikutierer",
+                        "text": "Schaffen Sie einen gesunden und grünen Rasen mit unseren hochwertigen <a href=\"/kategorie/elektro-vertikutierer/\" title=\"Elektro-Vertikutierer\">Elektro-Vertikutierer</a>n bei Gartengerät24. Unsere Geräte sind leicht und einfach zu bedienen und bieten Ihnen eine effektive Möglichkeit, um Moos und totes Gras zu entfernen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Vertikutierer für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-kettensaegen/\" title=\"Elektro-Kettensägen\">Elektro-Kettensägen</a> bei Gartengerät24. Unsere Elektro-Kettensägen bieten Ihnen eine leistungsstarke und zuverlässige Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Elektro-Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Heckenscheren",
+                        "text": "Verbessern Sie Ihre Gartenarbeiten mit unserem hochwertigen <a href=\"/kategorie/zubehoer-fuer-heckenscheren/\" title=\"Zubehör für Heckenscheren\">Zubehör für Heckenscheren</a> bei Gartengerät24. Unser Zubehör bietet Ihnen eine bequeme und praktische Möglichkeit, um Ihre Heckenschere zu pflegen und zu warten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihre Heckenschere!"
+                    },
+                    {
+                        "title": "Akku-Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-kettensaegen/\" title=\"Akku-Kettensägen\">Akku-Kettensägen</a> bei Gartengerät24. Unsere Akku-Kettensägen bieten Ihnen eine flexible und bequeme Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen, ohne dass Sie sich um eine Stromquelle kümmern müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Laubsauger & Laubbläser",
+                        "text": "<a href=\"/kategorie/laubsauger-laubblaeser/\" title=\"Laubsauger & Laubbläser\">Laubsauger & Laubbläser</a> sind unverzichtbar, wenn es darum geht, den Garten von Herbstblättern und anderem Laub zu befreien. Unser Online-Shop bietet eine große Auswahl an hochwertigen Laubsaugern und Laubbläsern, die Ihnen dabei helfen, Ihren Garten in kürzester Zeit von unnötigen Pflanzenresten zu befreien. Wählen Sie aus unserer breiten Palette an Elektro-Laubsaugern und Laubbläsern, um Ihren Garten auf einfache und effiziente Weise zu pflegen."
+                    },
+                    {
+                        "title": "Elektro-Laubsauger & Laubbläser",
+                        "text": "Für den Einsatz im Garten sind <a href=\"/kategorie/elektro-laubsauger-laubblaeser/\" title=\"Elektro-Laubsauger & Laubbläser\">Elektro-Laubsauger & Laubbläser</a> eine perfekte Lösung. Sie bieten starke Leistung bei geringem Gewicht und sind einfach zu bedienen. Unser Online-Shop bietet eine breite Auswahl an Elektro-Laubsaugern und Laubbläsern, die für jeden Bedarf geeignet sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um den perfekten Laubsauger oder Laubbläser für Ihren Garten zu finden."
+                    },
+                    {
+                        "title": "Elektro-Heckenscheren",
+                        "text": "<a href=\"/kategorie/elektro-heckenscheren/\" title=\"Elektro-Heckenscheren\">Elektro-Heckenscheren</a> sind ein unverzichtbares Werkzeug, wenn es darum geht, Hecken und Sträucher zu schneiden. Unser Online-Shop bietet eine große Auswahl an Elektro-Heckenscheren, die leicht und einfach zu bedienen sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um die perfekte Elektro-Heckenschere für Ihren Garten zu finden. Unsere Produkte zeichnen sich durch hohe Leistung und Effizienz aus, um Ihnen bei der Pflege Ihres Gartens zu helfen."
+                    },
+                    {
+                        "title": "Akku-Laubsauger & Laubbläser",
+                        "text": "Entdecken Sie unsere große Auswahl an Akku-Laubsaugern & Laubbläsern. Ob Sie Ihren Garten, Gehweg oder Ihre Auffahrt von Herbstlaub befreien möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/akku-laubsauger-laubblaeser/\" title=\"Akku-Laubsauger & Laubbläser\">Akku-Laubsauger & Laubbläser</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Grasscheren & Strauchscheren",
+                        "text": "Wir haben eine große Auswahl an <a href=\"/kategorie/grasscheren-strauchscheren/\" title=\"Grasscheren & Strauchscheren\">Grasscheren & Strauchscheren</a> für Ihre Gartenarbeiten. Ob Sie Ihre Sträucher und Büsche beschneiden oder Ihr Gras zurechtschneiden möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige Grasscheren & Strauchscheren von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Hochentaster & Astsägen",
+                        "text": "Wir haben eine große Auswahl an Hochentastern & Astsägen für Ihre Gartenarbeiten. Ob Sie Äste von hohen Bäumen abschneiden möchten oder Ihre Sträucher und Büsche beschneiden, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/hochentaster-astsaegen/\" title=\"Hochentaster & Astsägen\">Hochentaster & Astsägen</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Zubehör für Rasentrimmer & Sensen",
+                        "text": "Ein perfekter Garten erfordert das richtige Werkzeug. Mit dem <a href=\"/kategorie/zubehoer-fuer-rasentrimmer-sensen/\" title=\"Zubehör für Rasentrimmer & Sensen\">Zubehör für Rasentrimmer & Sensen</a> von Gartengerät24 haben Sie alles, was Sie brauchen, um Ihren Garten in Topform zu halten. Von Ersatzklingen bis hin zu Schutzbrillen finden Sie hier alles, was Sie für eine effiziente und sichere Arbeit benötigen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das richtige Zubehör für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Hand-Rasenmäher",
+                        "text": "<a href=\"/kategorie/hand-rasenmaeher/\" title=\"Hand-Rasenmäher\">Hand-Rasenmäher</a> sind die perfekte Lösung für kleine Gärten oder unebene Gelände. Bei Gartengerät24 finden Sie eine große Auswahl an Hand-Rasenmähern von führenden Marken. Wählen Sie aus manuellen oder elektrischen Modellen und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse. Unsere Hand-Rasenmäher sind einfach zu bedienen und bieten Ihnen eine gründliche und effiziente Arbeit."
+                    },
+                    {
+                        "title": "Motorhacken",
+                        "text": "Eine Motorhacke ist ein unverzichtbares Werkzeug für jeden Gärtner. Bei Gartengerät24 finden Sie eine breite Auswahl an <a href=\"/kategorie/motorhacken/\" title=\"Motorhacken\">Motorhacken</a>, die für jeden Bedarf geeignet sind. Wählen Sie aus Elektro- oder Benzinmodellen und finden Sie die perfekte Motorhacke für Ihren Garten. Unsere Motorhacken sind langlebig und einfach zu bedienen, damit Sie sich auf das Wesentliche konzentrieren können - die Pflege Ihres Gartens."
+                    },
+                    {
+                        "title": "Elektro-Motorhacken",
+                        "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/elektro-motorhacken/\" title=\"Elektro-Motorhacken\">Elektro-Motorhacken</a> bei Gartengerät24.de. Unsere elektrischen Motorhacken sind leistungsstark und einfach zu bedienen. Sie sind die perfekte Lösung für kleinere Gärten und bieten eine kosteneffiziente Alternative zu benzinbetriebenen Geräten. Stöbern Sie durch unsere Auswahl und finden Sie die perfekte Elektro-Motorhacke für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Benzin-Kettensägen",
+                        "text": "Kettensägen sind ein unverzichtbares Werkzeug für jeden Gartenliebhaber. Bei Gartengerät24.de finden Sie eine große Auswahl an benzinbetriebenen Kettensägen, die für schwere Aufgaben und große Gärten geeignet sind. Unsere Modelle sind leistungsstark und langlebig und bieten eine optimale Leistung für alle Arten von Gartenarbeiten. Stöbern Sie jetzt durch unsere Auswahl und finden Sie die perfekte Benzin-Kettensäge für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Häcksler",
+                        "text": "Machen Sie Ihren Gartenarbeiten das Leben leichter mit einem <a href=\"/kategorie/haecksler/\" title=\"Häcksler\">Häcksler</a> von Gartengerät24.de. Unsere Häcksler sind leistungsstark und einfach zu bedienen. Sie eignen sich perfekt zur Verarbeitung von Laub und Ästen und erleichtern Ihnen die Entsorgung. Stöbern Sie jetzt durch unsere Auswahl und finden Sie den perfekten Häcksler für Ihren Garten."
+                    },
+                    {
+                        "title": "Elektro-Häcksler",
+                        "text": "Entdecken Sie bei Gartengeräte24.de unsere breite Auswahl an <a href=\"/kategorie/elektro-haecksler/\" title=\"Elektro-Häcksler\">Elektro-Häcksler</a>n für Ihren Garten. Unsere Elektro-Häcksler sind einfach zu bedienen und dabei leistungsstark. Wir bieten Ihnen eine Vielzahl an verschiedenen Modellen, um Ihre Bedürfnisse zu erfüllen. Ob Sie einen leistungsstarken Häcksler für große Gärten oder einen kompakten Häcksler für kleinere Gärten suchen, wir haben das passende Modell für Sie. Überzeugen Sie sich selbst von unserem Sortiment und bestellen Sie noch heute Ihren neuen Elektro-Häcksler."
                     }
                 ]
             }
