@@ -2,28 +2,28 @@
     {
         "key": "rasentraktoren & zubehör",
         "name": "Rasentraktoren & Zubehör",
-        "slug": "rasentraktoren-zubehor",
+        "slug": "rasentraktoren-zubehoer",
         "productCategory": "Rasentraktoren & Zubehör",
         "subCategories": []
     },
     {
         "key": "zubehör für rasentraktoren",
         "name": "Zubehör für Rasentraktoren",
-        "slug": "zubehor-fur-rasentraktoren",
+        "slug": "zubehoer-fuer-rasentraktoren",
         "productCategory": "Zubehör für Rasentraktoren",
         "subCategories": []
     },
     {
         "key": "rasenmäher",
         "name": "Rasenmäher",
-        "slug": "rasenmaher",
+        "slug": "rasenmaeher",
         "productCategory": "Rasenmäher",
         "subCategories": []
     },
     {
         "key": "akku-rasenmäher",
         "name": "Akku-Rasenmäher",
-        "slug": "akku-rasenmaher",
+        "slug": "akku-rasenmaeher",
         "productCategory": "Akku-Rasenmäher",
         "subCategories": []
     },
@@ -51,35 +51,35 @@
     {
         "key": "elektro-rasenmäher",
         "name": "Elektro-Rasenmäher",
-        "slug": "elektro-rasenmaher",
+        "slug": "elektro-rasenmaeher",
         "productCategory": "Elektro-Rasenmäher",
         "subCategories": []
     },
     {
         "key": "mähroboter",
         "name": "Mähroboter",
-        "slug": "mahroboter",
+        "slug": "maehroboter",
         "productCategory": "Mähroboter",
         "subCategories": []
     },
     {
         "key": "mährobotergaragen",
         "name": "Mährobotergaragen",
-        "slug": "mahrobotergaragen",
+        "slug": "maehrobotergaragen",
         "productCategory": "Mährobotergaragen",
         "subCategories": []
     },
     {
         "key": "kettensägen",
         "name": "Kettensägen",
-        "slug": "kettensagen",
+        "slug": "kettensaegen",
         "productCategory": "Kettensägen",
         "subCategories": []
     },
     {
         "key": "zubehör für kettensägen",
         "name": "Zubehör für Kettensägen",
-        "slug": "zubehor-fur-kettensagen",
+        "slug": "zubehoer-fuer-kettensaegen",
         "productCategory": "Zubehör für Kettensägen",
         "subCategories": []
     },
@@ -100,7 +100,7 @@
     {
         "key": "zubehör für rasenmäher",
         "name": "Zubehör für Rasenmäher",
-        "slug": "zubehor-fur-rasenmaher",
+        "slug": "zubehoer-fuer-rasenmaeher",
         "productCategory": "Zubehör für Rasenmäher",
         "subCategories": []
     },
@@ -114,7 +114,7 @@
     {
         "key": "vertikutierer & rasenlüfter",
         "name": "Vertikutierer & Rasenlüfter",
-        "slug": "vertikutierer-rasenlufter",
+        "slug": "vertikutierer-rasenluefter",
         "productCategory": "Vertikutierer & Rasenlüfter",
         "subCategories": []
     },
@@ -128,35 +128,35 @@
     {
         "key": "elektro-kettensägen",
         "name": "Elektro-Kettensägen",
-        "slug": "elektro-kettensagen",
+        "slug": "elektro-kettensaegen",
         "productCategory": "Elektro-Kettensägen",
         "subCategories": []
     },
     {
         "key": "zubehör für heckenscheren",
         "name": "Zubehör für Heckenscheren",
-        "slug": "zubehor-fur-heckenscheren",
+        "slug": "zubehoer-fuer-heckenscheren",
         "productCategory": "Zubehör für Heckenscheren",
         "subCategories": []
     },
     {
         "key": "akku-kettensägen",
         "name": "Akku-Kettensägen",
-        "slug": "akku-kettensagen",
+        "slug": "akku-kettensaegen",
         "productCategory": "Akku-Kettensägen",
         "subCategories": []
     },
     {
         "key": "laubsauger & laubbläser",
         "name": "Laubsauger & Laubbläser",
-        "slug": "laubsauger-laubblaser",
+        "slug": "laubsauger-laubblaeser",
         "productCategory": "Laubsauger & Laubbläser",
         "subCategories": []
     },
     {
         "key": "elektro-laubsauger & laubbläser",
         "name": "Elektro-Laubsauger & Laubbläser",
-        "slug": "elektro-laubsauger-laubblaser",
+        "slug": "elektro-laubsauger-laubblaeser",
         "productCategory": "Elektro-Laubsauger & Laubbläser",
         "subCategories": []
     },
@@ -170,7 +170,7 @@
     {
         "key": "akku-laubsauger & laubbläser",
         "name": "Akku-Laubsauger & Laubbläser",
-        "slug": "akku-laubsauger-laubblaser",
+        "slug": "akku-laubsauger-laubblaeser",
         "productCategory": "Akku-Laubsauger & Laubbläser",
         "subCategories": []
     },
@@ -184,21 +184,21 @@
     {
         "key": "hochentaster & astsägen",
         "name": "Hochentaster & Astsägen",
-        "slug": "hochentaster-astsagen",
+        "slug": "hochentaster-astsaegen",
         "productCategory": "Hochentaster & Astsägen",
         "subCategories": []
     },
     {
         "key": "zubehör für rasentrimmer & sensen",
         "name": "Zubehör für Rasentrimmer & Sensen",
-        "slug": "zubehor-fur-rasentrimmer-sensen",
+        "slug": "zubehoer-fuer-rasentrimmer-sensen",
         "productCategory": "Zubehör für Rasentrimmer & Sensen",
         "subCategories": []
     },
     {
         "key": "hand-rasenmäher",
         "name": "Hand-Rasenmäher",
-        "slug": "hand-rasenmaher",
+        "slug": "hand-rasenmaeher",
         "productCategory": "Hand-Rasenmäher",
         "subCategories": []
     },
@@ -219,21 +219,21 @@
     {
         "key": "benzin-kettensägen",
         "name": "Benzin-Kettensägen",
-        "slug": "benzin-kettensagen",
+        "slug": "benzin-kettensaegen",
         "productCategory": "Benzin-Kettensägen",
         "subCategories": []
     },
     {
         "key": "häcksler",
         "name": "Häcksler",
-        "slug": "hacksler",
+        "slug": "haecksler",
         "productCategory": "Häcksler",
         "subCategories": []
     },
     {
         "key": "elektro-häcksler",
         "name": "Elektro-Häcksler",
-        "slug": "elektro-hacksler",
+        "slug": "elektro-haecksler",
         "productCategory": "Elektro-Häcksler",
         "subCategories": []
     }
