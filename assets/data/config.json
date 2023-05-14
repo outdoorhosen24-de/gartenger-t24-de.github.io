@@ -1,424 +1,431 @@
 {
-  "configIsReady": true,
-  "domain": "gartengerät24.de",
-  "hostname": "https://www.gartengerät24.de/",
-  "email": "gartengerät24.de@surrealnetworks.io",
-  "organization": "gartengerät24.de",
-  "logoText": "Gartengerät24.de",
-  "title": "Gartengeräte & Gartenmaschinen",
-  "subline": "Der Online Shop für die Gartenarbeit ",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "8382897",
-    "4867842",
-    "1647445",
-    "3423837",
-    "9588534",
-    "4476883"
-  ],
-  "winnerProducts": [
-    "7443070",
-    "8713141",
-    "9410275"
-  ],
-  "featuredCategories": [
-    "Akku-Heckenscheren",
-    "Akku-Laubsauger & Laubbläser",
-    "Rasentraktoren & Zubehör",
-    "Rasenmäher",
-    "Vertikutierer & Rasenlüfter",
-    "Rasenmäher"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Gartengeräte & Gartenmaschinen",
-    "featureText": "Willkommen in unserem Shop! Wir haben uns auf Gartengeräte- und maschinen spezialisert. Bei uns finden Sie ein umfangreiches Sortiment, dessen Darstellung einfach und übersichtlich gestaltet ist. Über die Liste der Kategorien finden Sie schnell zu Ihrem Wunschprodukt. Klicken Sie sich durch unser Sortiment, bestellen Sie zu fairen Preisen und gelangen Sie so ein Stück näher an einen schönen Garten! ",
-    "index": {
-      "title": "Gartengeräte & Gartenmaschinen online kaufen",
-      "metaDescription": "Rasenmäher • Mähroboter • Heckenscheren • Vertekutierer • Kettensägen • Laubsauger • Rasentrimmer & -sensen • Astsägen • Zubehör uvm. ",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Gartengerät24!",
-            "text": "Wir bei Gartengerät24 sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Gartengeräten und Gartenmaschinen anbieten zu können. Von Rasentraktoren und Zubehör bis hin zu Mährobotern und Garagen, wir haben alles, was Sie für Ihren Garten benötigen. Unsere Produkte sind von höchster Qualität und werden Sie bei der Pflege Ihres Gartens unterstützen. Stöbern Sie durch unsere Kategorien wie Rasentraktoren & Zubehör, Rasenmäher, Akku-Rasenmäher, Rasentrimmer & Sensen und viele mehr, um das perfekte Gerät für Ihre Bedürfnisse zu finden. Wir sind stets bemüht, Ihnen ein hervorragendes Einkaufserlebnis zu bieten und stehen Ihnen jederzeit zur Verfügung, falls Sie Fragen oder Anregungen haben. Besuchen Sie uns jetzt und entdecken Sie das Beste für Ihren Garten!"
-          },
-          {
-            "title": "Rasentraktoren & Zubehör",
-            "text": "Entdecken Sie unser breites Angebot an Rasentraktoren und Zubehör bei Gartengerät24. Unsere hochwertigen Rasentraktoren sind ideal für große Gärten und bieten Ihnen die Möglichkeit, Ihren Rasen bequem und effizient zu pflegen. Unser Zubehör, wie Anhänger, Gartengerätehalter und mehr, unterstützt Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und finden Sie das perfekte Set für Ihren Garten!"
-          },
-          {
-            "title": "Zubehör für Rasentraktoren",
-            "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasentraktoren/\" title=\"Zubehör für Rasentraktoren\">Zubehör für Rasentraktoren</a> bei Gartengerät24. Unsere hochwertigen Anhänger, Gartengerätehalter und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihren Rasentraktor!"
-          },
-          {
-            "title": "Rasenmäher",
-            "text": "Bei Gartengerät24 finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/rasenmaeher/\" title=\"Rasenmäher\">Rasenmäher</a>n. Unsere Elektro- und Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Rasenmäher für Ihren Garten!"
-          },
-          {
-            "title": "Akku-Rasenmäher",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-rasenmaeher/\" title=\"Akku-Rasenmäher\">Akku-Rasenmäher</a>n bei Gartengerät24. Unsere Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Akku-Rasenmäher für Ihren Garten!"
-          },
-          {
-            "title": "Rasentrimmer & Sensen",
-            "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserer Auswahl an Rasentrimmern und Sensen bei Gartengerät24. Unsere Elektro- und Akku-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Besuchen Sie uns jetzt und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Elektro-Trimmer & Sensen",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen Elektro-Trimmern und Sensen bei Gartengerät24. Unsere Elektro-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Akku-Trimmer",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-trimmer/\" title=\"Akku-Trimmer\">Akku-Trimmer</a>n bei Gartengerät24. Unsere Akku-Trimmer bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Elektro-Rasenmäher",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-rasenmaeher/\" title=\"Elektro-Rasenmäher\">Elektro-Rasenmäher</a>n bei Gartengerät24. Unsere Elektro-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Rasenmäher für Ihren Garten!"
-          },
-          {
-            "title": "Mähroboter",
-            "text": "Entdecken Sie die Zukunft der Gartenpflege mit unseren <a href=\"/kategorie/maehroboter/\" title=\"Mähroboter\">Mähroboter</a>n bei Gartengerät24. Unsere hochwertigen Mähroboter erledigen die Arbeit für Sie, sodass Sie sich entspannen und Ihren Garten genießen können. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Mähroboter für Ihren Garten!"
-          },
-          {
-            "title": "Mährobotergaragen",
-            "text": "Schützen Sie Ihren Mähroboter vor den Elementen mit unseren hochwertigen <a href=\"/kategorie/maehrobotergaragen/\" title=\"Mährobotergaragen\">Mährobotergaragen</a> bei Gartengerät24. Unsere Garagen bieten Ihrem Mähroboter Schutz vor Regen, Schnee und anderen Wettereinflüssen, damit er immer bereit ist, seine Arbeit zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Garage für Ihren Mähroboter!"
-          },
-          {
-            "title": "Kettensägen",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/kettensaegen/\" title=\"Kettensägen\">Kettensägen</a> bei Gartengerät24. Unsere Kettensägen sind ideal für alle Holzarbeiten im Garten und bieten Ihnen die Möglichkeit, Ihre Bäume und Äste schnell und effizient zu bearbeiten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Kettensäge für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Zubehör für Kettensägen",
-            "text": "Verbessern Sie Ihre Arbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-kettensaegen/\" title=\"Zubehör für Kettensägen\">Zubehör für Kettensägen</a> bei Gartengerät24. Unsere hochwertigen Klingenschutz, Öl und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihrer Kettensäge. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihre Kettensäge!"
-          },
-          {
-            "title": "Heckenscheren",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/heckenscheren/\" title=\"Heckenscheren\">Heckenscheren</a> bei Gartengerät24. Unsere Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Heckenschere für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Akku-Heckenscheren",
-            "text": "Entdecken Sie die Flexibilität von <a href=\"/kategorie/akku-heckenscheren/\" title=\"Akku-Heckenscheren\">Akku-Heckenscheren</a> bei Gartengerät24. Unsere hochwertigen Akku-Heckenscheren bieten Ihnen die Freiheit, Ihre Hecke zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Heckenschere für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Zubehör für Rasenmäher",
-            "text": "Optimieren Sie Ihre Gartenarbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasenmaeher/\" title=\"Zubehör für Rasenmäher\">Zubehör für Rasenmäher</a> bei Gartengerät24. Von Messern und Öl bis hin zu Schutzhauben und Mulchmessern bieten wir alles, was Sie für eine effiziente und erfolgreiche Rasenpflege benötigen. Besuchen Sie uns jetzt und finden Sie das perfekte Zubehör für Ihren Rasenmäher!"
-          },
-          {
-            "title": "Hand-Heckenscheren",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/hand-heckenscheren/\" title=\"Hand-Heckenscheren\">Hand-Heckenscheren</a> bei Gartengerät24. Unsere Hand-Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Hand-Heckenschere für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Vertikutierer & Rasenlüfter",
-            "text": "Verbessern Sie die Gesundheit Ihres Rasens mit unseren hochwertigen Vertikutierern & Rasenlüftern bei Gartengerät24. Unsere Geräte entfernen effektiv Moos und totes Gras, damit Ihr Rasen wieder atmen und gedeihen kann. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Vertikutierer oder Rasenlüfter für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Elektro-Vertikutierer",
-            "text": "Schaffen Sie einen gesunden und grünen Rasen mit unseren hochwertigen <a href=\"/kategorie/elektro-vertikutierer/\" title=\"Elektro-Vertikutierer\">Elektro-Vertikutierer</a>n bei Gartengerät24. Unsere Geräte sind leicht und einfach zu bedienen und bieten Ihnen eine effektive Möglichkeit, um Moos und totes Gras zu entfernen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Vertikutierer für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Elektro-Kettensägen",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-kettensaegen/\" title=\"Elektro-Kettensägen\">Elektro-Kettensägen</a> bei Gartengerät24. Unsere Elektro-Kettensägen bieten Ihnen eine leistungsstarke und zuverlässige Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Elektro-Kettensäge für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Zubehör für Heckenscheren",
-            "text": "Verbessern Sie Ihre Gartenarbeiten mit unserem hochwertigen <a href=\"/kategorie/zubehoer-fuer-heckenscheren/\" title=\"Zubehör für Heckenscheren\">Zubehör für Heckenscheren</a> bei Gartengerät24. Unser Zubehör bietet Ihnen eine bequeme und praktische Möglichkeit, um Ihre Heckenschere zu pflegen und zu warten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihre Heckenschere!"
-          },
-          {
-            "title": "Akku-Kettensägen",
-            "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-kettensaegen/\" title=\"Akku-Kettensägen\">Akku-Kettensägen</a> bei Gartengerät24. Unsere Akku-Kettensägen bieten Ihnen eine flexible und bequeme Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen, ohne dass Sie sich um eine Stromquelle kümmern müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Kettensäge für Ihre Bedürfnisse!"
-          },
-          {
-            "title": "Laubsauger & Laubbläser",
-            "text": "<a href=\"/kategorie/laubsauger-laubblaeser/\" title=\"Laubsauger & Laubbläser\">Laubsauger & Laubbläser</a> sind unverzichtbar, wenn es darum geht, den Garten von Herbstblättern und anderem Laub zu befreien. Unser Online-Shop bietet eine große Auswahl an hochwertigen Laubsaugern und Laubbläsern, die Ihnen dabei helfen, Ihren Garten in kürzester Zeit von unnötigen Pflanzenresten zu befreien. Wählen Sie aus unserer breiten Palette an Elektro-Laubsaugern und Laubbläsern, um Ihren Garten auf einfache und effiziente Weise zu pflegen."
-          },
-          {
-            "title": "Elektro-Laubsauger & Laubbläser",
-            "text": "Für den Einsatz im Garten sind <a href=\"/kategorie/elektro-laubsauger-laubblaeser/\" title=\"Elektro-Laubsauger & Laubbläser\">Elektro-Laubsauger & Laubbläser</a> eine perfekte Lösung. Sie bieten starke Leistung bei geringem Gewicht und sind einfach zu bedienen. Unser Online-Shop bietet eine breite Auswahl an Elektro-Laubsaugern und Laubbläsern, die für jeden Bedarf geeignet sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um den perfekten Laubsauger oder Laubbläser für Ihren Garten zu finden."
-          },
-          {
-            "title": "Elektro-Heckenscheren",
-            "text": "<a href=\"/kategorie/elektro-heckenscheren/\" title=\"Elektro-Heckenscheren\">Elektro-Heckenscheren</a> sind ein unverzichtbares Werkzeug, wenn es darum geht, Hecken und Sträucher zu schneiden. Unser Online-Shop bietet eine große Auswahl an Elektro-Heckenscheren, die leicht und einfach zu bedienen sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um die perfekte Elektro-Heckenschere für Ihren Garten zu finden. Unsere Produkte zeichnen sich durch hohe Leistung und Effizienz aus, um Ihnen bei der Pflege Ihres Gartens zu helfen."
-          },
-          {
-            "title": "Akku-Laubsauger & Laubbläser",
-            "text": "Entdecken Sie unsere große Auswahl an Akku-Laubsaugern & Laubbläsern. Ob Sie Ihren Garten, Gehweg oder Ihre Auffahrt von Herbstlaub befreien möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/akku-laubsauger-laubblaeser/\" title=\"Akku-Laubsauger & Laubbläser\">Akku-Laubsauger & Laubbläser</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Grasscheren & Strauchscheren",
-            "text": "Wir haben eine große Auswahl an <a href=\"/kategorie/grasscheren-strauchscheren/\" title=\"Grasscheren & Strauchscheren\">Grasscheren & Strauchscheren</a> für Ihre Gartenarbeiten. Ob Sie Ihre Sträucher und Büsche beschneiden oder Ihr Gras zurechtschneiden möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige Grasscheren & Strauchscheren von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Hochentaster & Astsägen",
-            "text": "Wir haben eine große Auswahl an Hochentastern & Astsägen für Ihre Gartenarbeiten. Ob Sie Äste von hohen Bäumen abschneiden möchten oder Ihre Sträucher und Büsche beschneiden, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/hochentaster-astsaegen/\" title=\"Hochentaster & Astsägen\">Hochentaster & Astsägen</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Zubehör für Rasentrimmer & Sensen",
-            "text": "Ein perfekter Garten erfordert das richtige Werkzeug. Mit dem <a href=\"/kategorie/zubehoer-fuer-rasentrimmer-sensen/\" title=\"Zubehör für Rasentrimmer & Sensen\">Zubehör für Rasentrimmer & Sensen</a> von Gartengerät24 haben Sie alles, was Sie brauchen, um Ihren Garten in Topform zu halten. Von Ersatzklingen bis hin zu Schutzbrillen finden Sie hier alles, was Sie für eine effiziente und sichere Arbeit benötigen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das richtige Zubehör für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Hand-Rasenmäher",
-            "text": "<a href=\"/kategorie/hand-rasenmaeher/\" title=\"Hand-Rasenmäher\">Hand-Rasenmäher</a> sind die perfekte Lösung für kleine Gärten oder unebene Gelände. Bei Gartengerät24 finden Sie eine große Auswahl an Hand-Rasenmähern von führenden Marken. Wählen Sie aus manuellen oder elektrischen Modellen und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse. Unsere Hand-Rasenmäher sind einfach zu bedienen und bieten Ihnen eine gründliche und effiziente Arbeit."
-          },
-          {
-            "title": "Motorhacken",
-            "text": "Eine Motorhacke ist ein unverzichtbares Werkzeug für jeden Gärtner. Bei Gartengerät24 finden Sie eine breite Auswahl an <a href=\"/kategorie/motorhacken/\" title=\"Motorhacken\">Motorhacken</a>, die für jeden Bedarf geeignet sind. Wählen Sie aus Elektro- oder Benzinmodellen und finden Sie die perfekte Motorhacke für Ihren Garten. Unsere Motorhacken sind langlebig und einfach zu bedienen, damit Sie sich auf das Wesentliche konzentrieren können - die Pflege Ihres Gartens."
-          },
-          {
-            "title": "Elektro-Motorhacken",
-            "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/elektro-motorhacken/\" title=\"Elektro-Motorhacken\">Elektro-Motorhacken</a> bei Gartengerät24.de. Unsere elektrischen Motorhacken sind leistungsstark und einfach zu bedienen. Sie sind die perfekte Lösung für kleinere Gärten und bieten eine kosteneffiziente Alternative zu benzinbetriebenen Geräten. Stöbern Sie durch unsere Auswahl und finden Sie die perfekte Elektro-Motorhacke für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Benzin-Kettensägen",
-            "text": "Kettensägen sind ein unverzichtbares Werkzeug für jeden Gartenliebhaber. Bei Gartengerät24.de finden Sie eine große Auswahl an benzinbetriebenen Kettensägen, die für schwere Aufgaben und große Gärten geeignet sind. Unsere Modelle sind leistungsstark und langlebig und bieten eine optimale Leistung für alle Arten von Gartenarbeiten. Stöbern Sie jetzt durch unsere Auswahl und finden Sie die perfekte Benzin-Kettensäge für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Häcksler",
-            "text": "Machen Sie Ihren Gartenarbeiten das Leben leichter mit einem <a href=\"/kategorie/haecksler/\" title=\"Häcksler\">Häcksler</a> von Gartengerät24.de. Unsere Häcksler sind leistungsstark und einfach zu bedienen. Sie eignen sich perfekt zur Verarbeitung von Laub und Ästen und erleichtern Ihnen die Entsorgung. Stöbern Sie jetzt durch unsere Auswahl und finden Sie den perfekten Häcksler für Ihren Garten."
-          },
-          {
-            "title": "Elektro-Häcksler",
-            "text": "Entdecken Sie bei Gartengeräte24.de unsere breite Auswahl an <a href=\"/kategorie/elektro-haecksler/\" title=\"Elektro-Häcksler\">Elektro-Häcksler</a>n für Ihren Garten. Unsere Elektro-Häcksler sind einfach zu bedienen und dabei leistungsstark. Wir bieten Ihnen eine Vielzahl an verschiedenen Modellen, um Ihre Bedürfnisse zu erfüllen. Ob Sie einen leistungsstarken Häcksler für große Gärten oder einen kompakten Häcksler für kleinere Gärten suchen, wir haben das passende Modell für Sie. Überzeugen Sie sich selbst von unserem Sortiment und bestellen Sie noch heute Ihren neuen Elektro-Häcksler."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "gartengerät24.de",
+    "hostname": "https://www.gartengerät24.de/",
+    "email": "gartengerät24.de@surrealnetworks.io",
+    "organization": "gartengerät24.de",
+    "logoText": "Gartengerät24.de",
+    "title": "Gartengeräte & Gartenmaschinen",
+    "subline": "Der Online Shop für die Gartenarbeit ",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "8382897",
+        "4867842",
+        "1647445",
+        "3423837",
+        "9588534",
+        "4476883"
+    ],
+    "winnerProducts": [
+        "7443070",
+        "8713141",
+        "9410275"
+    ],
+    "featuredCategories": [
+        "Akku-Heckenscheren",
+        "Akku-Laubsauger & Laubbläser",
+        "Rasentraktoren & Zubehör",
+        "Rasenmäher",
+        "Vertikutierer & Rasenlüfter",
+        "Rasenmäher"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Gartengeräte & Gartenmaschinen",
+        "featureText": "Willkommen in unserem Shop! Wir haben uns auf Gartengeräte- und maschinen spezialisert. Bei uns finden Sie ein umfangreiches Sortiment, dessen Darstellung einfach und übersichtlich gestaltet ist. Über die Liste der Kategorien finden Sie schnell zu Ihrem Wunschprodukt. Klicken Sie sich durch unser Sortiment, bestellen Sie zu fairen Preisen und gelangen Sie so ein Stück näher an einen schönen Garten! ",
+        "index": {
+            "title": "Gartengeräte & Gartenmaschinen online kaufen",
+            "metaDescription": "Rasenmäher • Mähroboter • Heckenscheren • Vertekutierer • Kettensägen • Laubsauger • Rasentrimmer & -sensen • Astsägen • Zubehör uvm. ",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Gartengerät24!",
+                        "text": "Wir bei Gartengerät24 sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Gartengeräten und Gartenmaschinen anbieten zu können. Von Rasentraktoren und Zubehör bis hin zu Mährobotern und Garagen, wir haben alles, was Sie für Ihren Garten benötigen. Unsere Produkte sind von höchster Qualität und werden Sie bei der Pflege Ihres Gartens unterstützen. Stöbern Sie durch unsere Kategorien wie Rasentraktoren & Zubehör, Rasenmäher, Akku-Rasenmäher, Rasentrimmer & Sensen und viele mehr, um das perfekte Gerät für Ihre Bedürfnisse zu finden. Wir sind stets bemüht, Ihnen ein hervorragendes Einkaufserlebnis zu bieten und stehen Ihnen jederzeit zur Verfügung, falls Sie Fragen oder Anregungen haben. Besuchen Sie uns jetzt und entdecken Sie das Beste für Ihren Garten!"
+                    },
+                    {
+                        "title": "Rasentraktoren & Zubehör",
+                        "text": "Entdecken Sie unser breites Angebot an Rasentraktoren und Zubehör bei Gartengerät24. Unsere hochwertigen Rasentraktoren sind ideal für große Gärten und bieten Ihnen die Möglichkeit, Ihren Rasen bequem und effizient zu pflegen. Unser Zubehör, wie Anhänger, Gartengerätehalter und mehr, unterstützt Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und finden Sie das perfekte Set für Ihren Garten!"
+                    },
+                    {
+                        "title": "Zubehör für Rasentraktoren",
+                        "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasentraktoren/\" title=\"Zubehör für Rasentraktoren\">Zubehör für Rasentraktoren</a> bei Gartengerät24. Unsere hochwertigen Anhänger, Gartengerätehalter und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihres Rasentraktors. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihren Rasentraktor!"
+                    },
+                    {
+                        "title": "Rasenmäher",
+                        "text": "Bei Gartengerät24 finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/rasenmaeher/\" title=\"Rasenmäher\">Rasenmäher</a>n. Unsere Elektro- und Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Akku-Rasenmäher",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-rasenmaeher/\" title=\"Akku-Rasenmäher\">Akku-Rasenmäher</a>n bei Gartengerät24. Unsere Akku-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Akku-Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Rasentrimmer & Sensen",
+                        "text": "Erleichtern Sie sich die Pflege Ihres Gartens mit unserer Auswahl an Rasentrimmern und Sensen bei Gartengerät24. Unsere Elektro- und Akku-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Besuchen Sie uns jetzt und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Trimmer & Sensen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen Elektro-Trimmern und Sensen bei Gartengerät24. Unsere Elektro-Trimmer und Sensen bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Akku-Trimmer",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-trimmer/\" title=\"Akku-Trimmer\">Akku-Trimmer</a>n bei Gartengerät24. Unsere Akku-Trimmer bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Rasenkanten, Gehwege und Büsche zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Gerät für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Rasenmäher",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-rasenmaeher/\" title=\"Elektro-Rasenmäher\">Elektro-Rasenmäher</a>n bei Gartengerät24. Unsere Elektro-Rasenmäher bieten Ihnen eine einfache und bequeme Möglichkeit, Ihren Rasen zu pflegen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Rasenmäher für Ihren Garten!"
+                    },
+                    {
+                        "title": "Mähroboter",
+                        "text": "Entdecken Sie die Zukunft der Gartenpflege mit unseren <a href=\"/kategorie/maehroboter/\" title=\"Mähroboter\">Mähroboter</a>n bei Gartengerät24. Unsere hochwertigen Mähroboter erledigen die Arbeit für Sie, sodass Sie sich entspannen und Ihren Garten genießen können. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Mähroboter für Ihren Garten!"
+                    },
+                    {
+                        "title": "Mährobotergaragen",
+                        "text": "Schützen Sie Ihren Mähroboter vor den Elementen mit unseren hochwertigen <a href=\"/kategorie/maehrobotergaragen/\" title=\"Mährobotergaragen\">Mährobotergaragen</a> bei Gartengerät24. Unsere Garagen bieten Ihrem Mähroboter Schutz vor Regen, Schnee und anderen Wettereinflüssen, damit er immer bereit ist, seine Arbeit zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Garage für Ihren Mähroboter!"
+                    },
+                    {
+                        "title": "Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/kettensaegen/\" title=\"Kettensägen\">Kettensägen</a> bei Gartengerät24. Unsere Kettensägen sind ideal für alle Holzarbeiten im Garten und bieten Ihnen die Möglichkeit, Ihre Bäume und Äste schnell und effizient zu bearbeiten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Kettensägen",
+                        "text": "Verbessern Sie Ihre Arbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-kettensaegen/\" title=\"Zubehör für Kettensägen\">Zubehör für Kettensägen</a> bei Gartengerät24. Unsere hochwertigen Klingenschutz, Öl und weiteres Zubehör unterstützen Sie bei der optimalen Nutzung Ihrer Kettensäge. Besuchen Sie uns jetzt und entdecken Sie das perfekte Zubehör für Ihre Kettensäge!"
+                    },
+                    {
+                        "title": "Heckenscheren",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/heckenscheren/\" title=\"Heckenscheren\">Heckenscheren</a> bei Gartengerät24. Unsere Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Akku-Heckenscheren",
+                        "text": "Entdecken Sie die Flexibilität von <a href=\"/kategorie/akku-heckenscheren/\" title=\"Akku-Heckenscheren\">Akku-Heckenscheren</a> bei Gartengerät24. Unsere hochwertigen Akku-Heckenscheren bieten Ihnen die Freiheit, Ihre Hecke zu pflegen, ohne sich um eine Stromquelle kümmern zu müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Rasenmäher",
+                        "text": "Optimieren Sie Ihre Gartenarbeit mit unserem breiten Angebot an <a href=\"/kategorie/zubehoer-fuer-rasenmaeher/\" title=\"Zubehör für Rasenmäher\">Zubehör für Rasenmäher</a> bei Gartengerät24. Von Messern und Öl bis hin zu Schutzhauben und Mulchmessern bieten wir alles, was Sie für eine effiziente und erfolgreiche Rasenpflege benötigen. Besuchen Sie uns jetzt und finden Sie das perfekte Zubehör für Ihren Rasenmäher!"
+                    },
+                    {
+                        "title": "Hand-Heckenscheren",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/hand-heckenscheren/\" title=\"Hand-Heckenscheren\">Hand-Heckenscheren</a> bei Gartengerät24. Unsere Hand-Heckenscheren bieten Ihnen eine einfache und bequeme Möglichkeit, um Ihre Hecke zu pflegen und in Form zu halten. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Hand-Heckenschere für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Vertikutierer & Rasenlüfter",
+                        "text": "Verbessern Sie die Gesundheit Ihres Rasens mit unseren hochwertigen Vertikutierern & Rasenlüftern bei Gartengerät24. Unsere Geräte entfernen effektiv Moos und totes Gras, damit Ihr Rasen wieder atmen und gedeihen kann. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Vertikutierer oder Rasenlüfter für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Vertikutierer",
+                        "text": "Schaffen Sie einen gesunden und grünen Rasen mit unseren hochwertigen <a href=\"/kategorie/elektro-vertikutierer/\" title=\"Elektro-Vertikutierer\">Elektro-Vertikutierer</a>n bei Gartengerät24. Unsere Geräte sind leicht und einfach zu bedienen und bieten Ihnen eine effektive Möglichkeit, um Moos und totes Gras zu entfernen. Stöbern Sie durch unser Sortiment und finden Sie den perfekten Elektro-Vertikutierer für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Elektro-Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/elektro-kettensaegen/\" title=\"Elektro-Kettensägen\">Elektro-Kettensägen</a> bei Gartengerät24. Unsere Elektro-Kettensägen bieten Ihnen eine leistungsstarke und zuverlässige Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Elektro-Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Zubehör für Heckenscheren",
+                        "text": "Verbessern Sie Ihre Gartenarbeiten mit unserem hochwertigen <a href=\"/kategorie/zubehoer-fuer-heckenscheren/\" title=\"Zubehör für Heckenscheren\">Zubehör für Heckenscheren</a> bei Gartengerät24. Unser Zubehör bietet Ihnen eine bequeme und praktische Möglichkeit, um Ihre Heckenschere zu pflegen und zu warten. Stöbern Sie durch unser Sortiment und finden Sie das perfekte Zubehör für Ihre Heckenschere!"
+                    },
+                    {
+                        "title": "Akku-Kettensägen",
+                        "text": "Entdecken Sie unsere Auswahl an hochwertigen <a href=\"/kategorie/akku-kettensaegen/\" title=\"Akku-Kettensägen\">Akku-Kettensägen</a> bei Gartengerät24. Unsere Akku-Kettensägen bieten Ihnen eine flexible und bequeme Möglichkeit, um Holz zu schneiden und Ihre Gartenarbeiten zu erledigen, ohne dass Sie sich um eine Stromquelle kümmern müssen. Stöbern Sie durch unser Sortiment und finden Sie die perfekte Akku-Kettensäge für Ihre Bedürfnisse!"
+                    },
+                    {
+                        "title": "Laubsauger & Laubbläser",
+                        "text": "<a href=\"/kategorie/laubsauger-laubblaeser/\" title=\"Laubsauger & Laubbläser\">Laubsauger & Laubbläser</a> sind unverzichtbar, wenn es darum geht, den Garten von Herbstblättern und anderem Laub zu befreien. Unser Online-Shop bietet eine große Auswahl an hochwertigen Laubsaugern und Laubbläsern, die Ihnen dabei helfen, Ihren Garten in kürzester Zeit von unnötigen Pflanzenresten zu befreien. Wählen Sie aus unserer breiten Palette an Elektro-Laubsaugern und Laubbläsern, um Ihren Garten auf einfache und effiziente Weise zu pflegen."
+                    },
+                    {
+                        "title": "Elektro-Laubsauger & Laubbläser",
+                        "text": "Für den Einsatz im Garten sind <a href=\"/kategorie/elektro-laubsauger-laubblaeser/\" title=\"Elektro-Laubsauger & Laubbläser\">Elektro-Laubsauger & Laubbläser</a> eine perfekte Lösung. Sie bieten starke Leistung bei geringem Gewicht und sind einfach zu bedienen. Unser Online-Shop bietet eine breite Auswahl an Elektro-Laubsaugern und Laubbläsern, die für jeden Bedarf geeignet sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um den perfekten Laubsauger oder Laubbläser für Ihren Garten zu finden."
+                    },
+                    {
+                        "title": "Elektro-Heckenscheren",
+                        "text": "<a href=\"/kategorie/elektro-heckenscheren/\" title=\"Elektro-Heckenscheren\">Elektro-Heckenscheren</a> sind ein unverzichtbares Werkzeug, wenn es darum geht, Hecken und Sträucher zu schneiden. Unser Online-Shop bietet eine große Auswahl an Elektro-Heckenscheren, die leicht und einfach zu bedienen sind. Wählen Sie aus einer Vielzahl von Marken und Modellen, um die perfekte Elektro-Heckenschere für Ihren Garten zu finden. Unsere Produkte zeichnen sich durch hohe Leistung und Effizienz aus, um Ihnen bei der Pflege Ihres Gartens zu helfen."
+                    },
+                    {
+                        "title": "Akku-Laubsauger & Laubbläser",
+                        "text": "Entdecken Sie unsere große Auswahl an Akku-Laubsaugern & Laubbläsern. Ob Sie Ihren Garten, Gehweg oder Ihre Auffahrt von Herbstlaub befreien möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/akku-laubsauger-laubblaeser/\" title=\"Akku-Laubsauger & Laubbläser\">Akku-Laubsauger & Laubbläser</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Grasscheren & Strauchscheren",
+                        "text": "Wir haben eine große Auswahl an <a href=\"/kategorie/grasscheren-strauchscheren/\" title=\"Grasscheren & Strauchscheren\">Grasscheren & Strauchscheren</a> für Ihre Gartenarbeiten. Ob Sie Ihre Sträucher und Büsche beschneiden oder Ihr Gras zurechtschneiden möchten, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige Grasscheren & Strauchscheren von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Hochentaster & Astsägen",
+                        "text": "Wir haben eine große Auswahl an Hochentastern & Astsägen für Ihre Gartenarbeiten. Ob Sie Äste von hohen Bäumen abschneiden möchten oder Ihre Sträucher und Büsche beschneiden, wir haben das richtige Gerät für Sie. Wir bieten nur hochwertige und langlebige <a href=\"/kategorie/hochentaster-astsaegen/\" title=\"Hochentaster & Astsägen\">Hochentaster & Astsägen</a> von namhaften Marken zu einem fairen Preis an. Schauen Sie sich jetzt unser Sortiment an und finden Sie das perfekte Gerät für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Zubehör für Rasentrimmer & Sensen",
+                        "text": "Ein perfekter Garten erfordert das richtige Werkzeug. Mit dem <a href=\"/kategorie/zubehoer-fuer-rasentrimmer-sensen/\" title=\"Zubehör für Rasentrimmer & Sensen\">Zubehör für Rasentrimmer & Sensen</a> von Gartengerät24 haben Sie alles, was Sie brauchen, um Ihren Garten in Topform zu halten. Von Ersatzklingen bis hin zu Schutzbrillen finden Sie hier alles, was Sie für eine effiziente und sichere Arbeit benötigen. Stöbern Sie jetzt durch unser Sortiment und finden Sie das richtige Zubehör für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Hand-Rasenmäher",
+                        "text": "<a href=\"/kategorie/hand-rasenmaeher/\" title=\"Hand-Rasenmäher\">Hand-Rasenmäher</a> sind die perfekte Lösung für kleine Gärten oder unebene Gelände. Bei Gartengerät24 finden Sie eine große Auswahl an Hand-Rasenmähern von führenden Marken. Wählen Sie aus manuellen oder elektrischen Modellen und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse. Unsere Hand-Rasenmäher sind einfach zu bedienen und bieten Ihnen eine gründliche und effiziente Arbeit."
+                    },
+                    {
+                        "title": "Motorhacken",
+                        "text": "Eine Motorhacke ist ein unverzichtbares Werkzeug für jeden Gärtner. Bei Gartengerät24 finden Sie eine breite Auswahl an <a href=\"/kategorie/motorhacken/\" title=\"Motorhacken\">Motorhacken</a>, die für jeden Bedarf geeignet sind. Wählen Sie aus Elektro- oder Benzinmodellen und finden Sie die perfekte Motorhacke für Ihren Garten. Unsere Motorhacken sind langlebig und einfach zu bedienen, damit Sie sich auf das Wesentliche konzentrieren können - die Pflege Ihres Gartens."
+                    },
+                    {
+                        "title": "Elektro-Motorhacken",
+                        "text": "Entdecken Sie die Vorteile von <a href=\"/kategorie/elektro-motorhacken/\" title=\"Elektro-Motorhacken\">Elektro-Motorhacken</a> bei Gartengerät24.de. Unsere elektrischen Motorhacken sind leistungsstark und einfach zu bedienen. Sie sind die perfekte Lösung für kleinere Gärten und bieten eine kosteneffiziente Alternative zu benzinbetriebenen Geräten. Stöbern Sie durch unsere Auswahl und finden Sie die perfekte Elektro-Motorhacke für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Benzin-Kettensägen",
+                        "text": "Kettensägen sind ein unverzichtbares Werkzeug für jeden Gartenliebhaber. Bei Gartengerät24.de finden Sie eine große Auswahl an benzinbetriebenen Kettensägen, die für schwere Aufgaben und große Gärten geeignet sind. Unsere Modelle sind leistungsstark und langlebig und bieten eine optimale Leistung für alle Arten von Gartenarbeiten. Stöbern Sie jetzt durch unsere Auswahl und finden Sie die perfekte Benzin-Kettensäge für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Häcksler",
+                        "text": "Machen Sie Ihren Gartenarbeiten das Leben leichter mit einem <a href=\"/kategorie/haecksler/\" title=\"Häcksler\">Häcksler</a> von Gartengerät24.de. Unsere Häcksler sind leistungsstark und einfach zu bedienen. Sie eignen sich perfekt zur Verarbeitung von Laub und Ästen und erleichtern Ihnen die Entsorgung. Stöbern Sie jetzt durch unsere Auswahl und finden Sie den perfekten Häcksler für Ihren Garten."
+                    },
+                    {
+                        "title": "Elektro-Häcksler",
+                        "text": "Entdecken Sie bei Gartengeräte24.de unsere breite Auswahl an <a href=\"/kategorie/elektro-haecksler/\" title=\"Elektro-Häcksler\">Elektro-Häcksler</a>n für Ihren Garten. Unsere Elektro-Häcksler sind einfach zu bedienen und dabei leistungsstark. Wir bieten Ihnen eine Vielzahl an verschiedenen Modellen, um Ihre Bedürfnisse zu erfüllen. Ob Sie einen leistungsstarken Häcksler für große Gärten oder einen kompakten Häcksler für kleinere Gärten suchen, wir haben das passende Modell für Sie. Überzeugen Sie sich selbst von unserem Sortiment und bestellen Sie noch heute Ihren neuen Elektro-Häcksler."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Ihr Online Shop für Gartengeräte & Gartenmaschinen ",
+            "metaDescription": "Riesige Auswahl an Gartengeräten & Gartenmaschinen im Shop: Rasenmäher, Heckenscheren, Laubsuager & mehr | einfache Produktsuche | schnelle Lieferung ",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Hersteller für Gartengeräte & Gartenmaschinen ",
+            "metaDescription": "Bei uns finden Sie all unsere Hersteller für Gartengeräte & Gartenmaschinen in einem Überblick | darunter: Bosch, Makita, Einhell, Gardena, Fiskars uvm. ",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Ihr Online Shop für Gartengeräte & Gartenmaschinen ",
-      "metaDescription": "Riesige Auswahl an Gartengeräten & Gartenmaschinen im Shop: Rasenmäher, Heckenscheren, Laubsuager & mehr | einfache Produktsuche | schnelle Lieferung ",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Hersteller für Gartengeräte & Gartenmaschinen ",
-      "metaDescription": "Bei uns finden Sie all unsere Hersteller für Gartengeräte & Gartenmaschinen in einem Überblick | darunter: Bosch, Makita, Einhell, Gardena, Fiskars uvm. ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - einfach online bestellen",
-    "defaultMetaDescription": "$PRODUKT | Gartengeräte & Gartenmaschinen von $HERSTELLER bei uns im Shop | Entdecken Sie weiter tolle Produkte zum Thema $KATEGORIE!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "7443070",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - einfach online bestellen",
+        "defaultMetaDescription": "$PRODUKT | Gartengeräte & Gartenmaschinen von $HERSTELLER bei uns im Shop | Entdecken Sie weiter tolle Produkte zum Thema $KATEGORIE!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Ersatzschraube für CMI Elektro-Rasenmäher C-ERM-1200/32 3",
-              "text": "<p class=\"justify\">Die Ersatzschraube für den CMI Elektro-Rasenmäher C-ERM-1200/32 3 ist ein unverzichtbares Zubehör für Rasenmäherliebhaber. Sie wurde speziell dafür entwickelt, um die Leistung und die Lebensdauer Ihres CMI Elektro-Rasenmähers zu erhöhen. Mit der GTIN13 4007875550551 gehört dieses Produkt zur Kategorie Zubehör für Rasenmäher und fällt unter die Marke Sonstige.</p><p class=\"justify\">Die Ersatzschraube ist ideal geeignet, um den Holm Ihres CMI Elektro-Rasenmähers C-ERM-1200/32 3 sicher zu befestigen. Durch ihren Einsatz ist gewährleistet, dass Ihr Rasenmäher stets stabil und einsatzbereit ist. Die Montage der Schraube gestaltet sich einfach und unkompliziert, somit benötigt man nur wenig Zeit und Aufwand, um optimale Ergebnisse zu erhalten.</p><p class=\"justify\">In der Kategorie Garten & Freizeit, speziell bei Gartengeräten & Gartenmaschinen, spielt die Ersatzschraube eine wichtige Rolle, um den Elektro-Rasenmäher auf einem hohen Leistungsniveau zu halten. Mit einer durchschnittlichen Bewertung von 5 Sternen von insgesamt 67 Rezensionen zeigt sich, dass dieses Produkt seinen Benutzern gute Dienste leistet und von hoher Qualität ist.</p><p class=\"justify\">Als essentieller Bestandteil Ihres Elektro-Rasenmähers C-ERM-1200/32 3 gewährleistet die Ersatzschraube ein langfristig zufriedenstellendes Ergebnis bei der Pflege Ihres Gartens. Zu einem äußerst attraktiven Preis von 1,99 € stellt diese Schraube eine lohnenswerte Investition dar, die die Langlebigkeit und Stabilität Ihres Rasenmähers maßgeblich beeinflusst.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8713141",
-        "seo": {
-          "texts": [
-            {
-              "title": "Yardforce Mähroboter MowBest 805",
-              "text": "<p class=\"justify\">Der Yardforce Mähroboter MowBest 805 ist die ideale Lösung für die Pflege Ihres Gartens. Er ist leistungsstark und einfach zu bedienen, sodass Ihre Rasenflächen immer perfekt aussehen. Dieses Gerät eignet sich besonders gut für komplizierte Flächen bis zu 250 m² und ist in der Lage, Steigungen von bis zu 30% zu bewältigen. Dadurch wird sicher ein akkurater Schnitt gewährleistet, auch bei unebenem Gelände.</p><p class=\"justify\">Der Mähroboter ist mit einem Lithium-Ionen-Akku (20 V/2 Ah) ausgestattet, der für ausreichend Leistung sorgt. Die eingebauten Hebe- und Kippsensoren sorgen für zusätzliche Sicherheit, indem sie die Messer automatisch stoppen, wenn der Mähroboter angehoben oder gekippt wird. Durch das innovative Mulch-Prinzip fällt das fein gehäckselte Gras zurück auf den Boden und versorgt diesen auf natürliche Weise mit wichtigen Nährstoffen und Feuchtigkeit.</p><p class=\"justify\">Der Yardforce Mähroboter MowBest 805 ist sehr benutzerfreundlich. Das intuitive Bedienfeld ermöglicht Ihnen, schnell und unkompliziert alle notwendigen Einstellungen vorzunehmen. So können Sie schnell die gewünschten Schnitthöhen und Mähpläne einrichten, um das Gerät an Ihre individuellen Bedürfnisse anzupassen.</p><p class=\"justify\">Im Lieferumfang des Yardforce MowBest 805 sind neben dem Mähroboter selbst, eine Ladestation, 80 m Begrenzungskabel, 100 Stück Befestigungsnägel, 9 m Netzkabel, 3 Ersatzmesser, 3 Ersatzschrauben, 3 Kabelsteckverbinder, ein Abstandhalter und ein Lineal sowie eine Bedienungsanleitung enthalten. Damit sind Sie voll ausgestattet, um Ihren Garten sicher und effizient zu pflegen.</p><p class=\"justify\">Insgesamt bietet der Yardforce Mähroboter MowBest 805 eine optimale Lösung für die Rasenpflege in Ihrem privaten Garten oder auf Ihrem Firmengelände. Er ist leistungsstark, einfach zu bedienen und bietet zahlreiche Einstellungsmöglichkeiten, um Ihr Grün in Bestform zu halten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9410275",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Akku-Heckenschere 1 PowerSystem A-HS-20/52 - Leistungsstark und komfortabel",
-              "text": "<p class=\"justify\">Die LUX-TOOLS Akku-Heckenschere 1 PowerSystem A-HS-20/52 ist das ideale Gartengerät für geräuscharmes und schnelles Stutzen, Trimmen und Schneiden von Hecken und Büschen. Durch die kabellose Nutzung ermöglicht sie maximale Bewegungsfreiheit und erleichtert somit auch großflächige Heckenschnitte. Die Akku-Heckenschere ist kompatibel mit dem LUX 1 PowerSystem und wird von einem 20 V (18 V nominal) Lithium-Ionen Akku mit 2 Ah oder 4 Ah betrieben. Beachten Sie, dass der Akku und das Schnellladegerät separat erhältlich sind und ein 2 Ah Akku empfohlen wird.</p><p class=\"justify\">Sicherheit und Komfort stehen bei dieser Heckenschere im Vordergrund. Ausgestattet mit einer elektronischen Sicherheitsbremse und einem Anschlagsschutz sorgt sie für ein sicheres Arbeiten. Der Softgrip-Handgriff und der um 90° in beide Richtungen drehbare hintere Griff ermöglichen eine angenehme Handhabung und ein ergonomisches Arbeiten. Die beidseitig schneidenden Messer haben eine Schnittlänge von 52 cm und eine maximale Schnittstärke von 14 mm. Dadurch ist sie ideal für breite Hecken geeignet und ermöglicht bis zu 2.200 Schnitte pro Minute.</p><p class=\"justify\">Das 1 PowerSystem von LUX-TOOLS vereint alle wichtigen Anwendungen für Haus und Garten in einem System – so sind verschiedenste Akkus und Ladegeräte nicht mehr nötig. Sogar leistungsstarke 40 V-Gartenmaschinen können mit zwei 20 Volt-Akkus durch die Twin-Power-Technik betrieben werden. Die neueste Akkugeneration zeichnet sich durch optimale Ladesteuerung, das Lufttunnel-System zur Akku-Kühlung, ein langlebiges Gehäusedesign und hochwertige Akkuzellen aus. Dadurch bietet das 1 PowerSystem von LUX-TOOLS zuverlässige und sichere Lösungen für anspruchsvolle Arbeiten in Haus und Garten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9464561",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bosch Elektro-Rasenmäher AdvancedRotak 690 mit 50 l Fangbox und Mulchkit 1.800 W",
-              "text": "<p class=\"justify\">Der Bosch Elektro-Rasenmäher AdvancedRotak 690 ist ein leistungsstarkes Gartengerät, das sich perfekt für größere Gärten mit einer Rasenfläche von bis zu 700 m² eignet. Mit einer Leistung von 1.800 W und einer Schnittbreite von 42 cm ermöglicht dieser Elektro-Rasenmäher müheloses Mähen und ein makelloses Ergebnis. Dank der ProSilence-Technologie gehört der AdvancedRotak 690 zu den leisesten Hochleistungsmähern seiner Klasse und reduziert die Betriebsgeräusche um bis zu 75% auf nur 89 dB.</p><p class=\"justify\">Einer der vielen Vorteile dieses Elektro-Rasenmähers ist die siebenfache Schnitthöhenverstellung, die auf Tastendruck von 20 mm bis 80 mm eingestellt werden kann. Das Gerät ist zudem auf Komfort und Ergonomie ausgelegt. Der ErgoSlide-Griff sorgt für weniger Anstrengung bei maximaler Kontrolle beim Mähen, während der stufenlos einstellbare Teleskopholm sich leicht auf die Körpergröße des Benutzers einstellen lässt. Dies trägt dazu bei, die Körperhaltung zu verbessern und die Beanspruchung von Armen und Rücken zu verringern.</p><p class=\"justify\">Im Lieferumfang des Bosch Elektro-Rasenmähers AdvancedRotak 690 ist auch ein praktisches Mulchkit enthalten. Mit dem MultiMulch-System können die im Grasschnitt enthaltenen Nährstoffe dem Rasen wieder zugeführt werden, indem der Schnitt von der Grasfangbox direkt an die Rasenwurzeln geführt wird. So dient der Grasschnitt zusätzlich als natürlicher Dünger für den Rasen. Falls nicht gemulcht werden sollte, kann die 50 l Fangbox verwendet werden, um den Rasenschnitt aufzufangen, ohne häufig entleert werden zu müssen.</p><p class=\"justify\">Der Bosch Elektro-Rasenmäher AdvancedRotak 690 ist ein idealer Begleiter für alle Gartenliebhaber, die Wert auf Leistung, Komfort und eine effiziente Gartengestaltung legen. Dieses Gerät zeichnet sich durch seine vielen Vorteile und eine qualitativ hochwertige Verarbeitung aus und ermöglicht entspanntes Rasenmähen ohne große Anstrengungen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9588534",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS",
-              "text": "<p class=\"justify\">Das LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS ist eine optimale Lösung für die umweltfreundliche und effiziente Rasenpflege. Mit seiner kraftvollen 20 V (18 V nominal) und 4 Ah Lithium-Ionen-Akku-Antrieb bietet dieser Rasenmäher ausreichend Leistung für bis zu 80 Minuten Betriebszeit und ermöglicht ein geräuscharmes Arbeiten ohne störende Kabel. Mit einer Schnittbreite von 33 cm ist dieses Modell ideal für Rasenflächen bis zu 150 m² geeignet.</p><p class=\"justify\">Die fünffach einstellbare Schnitthöhenverstellung ermöglicht Anpassungen von 25 mm bis 65 mm, um in allen Graslängen effektiv zu arbeiten. Der solide Stahlholm ist platzsparend zusammenklappbar für einen einfachen Transport und der integrierte Grasfangkorb fasst ein Volumen von 30 Litern. Das mitgelieferte Schnellladegerät lädt den Akku in nur 2 Stunden wieder auf, sodass keine langen Wartezeiten entstehen.</p><p class=\"justify\">Das Besondere an diesem Rasenmäher ist das LUX 1 PowerSystem. Es ermöglicht die Verwendung eines einzigen Akkutyps für alle wichtigen Anwendungen rund um Haus und Garten, indem alle Geräte der Serie mit dem gleichen 20 V (18 V nominal) Lithium-Ionen-Akku betrieben werden. Dies spart Kosten und vereinfacht die Handhabung der Geräte. Die Twin-Power-Technik erlaubt zudem den Betrieb leistungsstarker 40 V-Gartenmaschinen mit zwei 20 Volt-Akkus.</p><p class=\"justify\">Entdecken Sie die kabellose Freiheit für Haus und Garten mit dem LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS und genießen Sie eine zuverlässige und professionelle Rasenpflege. Mit seinen 210 Bewertungen und 4 Sternen ist dieses Modell eine hervorragende Wahl für alle, die ein leistungsstarkes und praktisches Gartengerät suchen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9400706",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46",
-              "text": "<p class=\"justify\">Das LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46 (SKU: 9400706) ist ein leistungsstarkes und umweltfreundliches Akku-Rasenmäher-Set, ideal für den Einsatz in Gärten und auf Rasenflächen. Es gehört zur Kategorie der Akku-Rasenmäher und kombiniert modernste Technologie mit hohem Bedienkomfort, um die Gartenarbeit zu erleichtern.</p><p class=\"justify\">Das Set beinhaltet einen Rasenmäher mit robustem Stahlgehäuse und einer Schnittbreite von 46 cm, der breite Bahnen schneidet und somit das Mähen großer Rasenflächen beschleunigt. Die Flächenempfehlung für dieses Modell beträgt 800 qm. Es stehen 6 verschiedene Schnittstufen zur Verfügung, die von 25 mm bis 75 mm reichen, um ein optimales Schnittbild zu erzielen. Der Hinterrad-Antrieb bietet zusätzliches Hilfskraft, sodass nicht mehr geschoben werden muss.</p><p class=\"justify\">Das LUX-TOOLS A-RM-2x20/46-Set ist mit zwei hochwertigen Lithium-Ionen-Akkus ausgestattet, die jeweils eine Spannung von 20 V (18 V nominal) und eine Leistung von 4 Ah haben. Dank der Twin-Power-Technik werden die beiden Akkus gleichzeitig genutzt und ihre Spannung auf 40 V erhöht. Ein praktisches Doppelladegerät sorgt für das schnelle Aufladen beider Akkus innerhalb von zwei Stunden.</p><p class=\"justify\">Der leistungsstarke Akku-Rasenmäher ist Teil des LUX 1 PowerSystems, einer praktischen Serie von Gartengeräten, die alle mit den beiden im Set enthaltenen 20 V Akkus betrieben werden können. Das bedeutet maximale Flexibilität und Benutzerfreundlichkeit, da die Akkus bei verschiedenen Geräten eingesetzt werden können.</p><p class=\"justify\">Mit dem LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46 erleben Sie eine kabellose und abgasfreie Rasenpflege, bei der Sie Ihren Rasen schnell, effizient und umweltschonend schneiden können. Profitieren Sie von den zahlreichen Vorteilen dieses Sets und genießen Sie ein perfekt gepflegtes Grün in Ihrem Garten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1233188",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Akku-Rasenmäher 1 Power System A-RM 2x20/43 mit Radantrieb",
-              "text": "<p class=\"justify\">Der LUX-TOOLS Akku-Rasenmäher 1 Power System A-RM 2x20/43 mit Radantrieb ist ein innovatives Gartengerät, das Ihnen dabei hilft, Ihren Rasen mühelos und effizient zu pflegen. Dank der leistungsstarken Akkutechnologie und dem zuschaltbaren Radantrieb gestaltet sich das Rasenmähen komfortabel und weniger anstrengend als mit herkömmlichen Rasenmähern.</p><p class=\"justify\">In Situationen, in denen der Akku Höchstleistung erbringen muss, gibt es mehrere Faktoren, die seine Leistung beeinflussen können. Der optimale Fall ist ein trockener, gepflegter Rasen, der wöchentlich gemäht wird. Bei höherem, feuchtem oder nassem Gras, unebenen Flächen oder beim Mähen mit Radantrieb wird mehr Leistung vom Akku gefordert, wodurch er sich schneller entleert und eventuell neu aufgeladen werden muss.</p><p class=\"justify\">Das praktische Doppelladegerät ermöglicht ein schnelles Aufladen beider Akkus innerhalb von zwei Stunden. Die Schnittbreite beträgt 43 cm, und der Akku-Rasenmäher eignet sich für Flächen bis zu 650 Quadratmeter. Die zentral verstellbare Schnitthöhenverstellung lässt sich einfach zwischen 25 und 75 mm einstellen.</p><p class=\"justify\">Der Akku-Rasenmäher ist Teil des LUX 1 PowerSystems, was bedeutet, dass die im Set enthaltenen 20V Akkus mit allen Geräten dieser Serie kompatibel sind. Es wird empfohlen, die mitgelieferten 4 Ah Akkus zu verwenden. Damit das Gerät optimal funktioniert, sollten beide Akkus den gleichen Ladestand haben, da ein schwächer geladener Akku den stärker geladenen Akku sonst ausbremst.</p><p class=\"justify\">Die angegebene Schnittflächenempfehlung bezieht sich auf die empfohlene Fläche, für die der Rasenmäher in dieser Schnittbreite eingesetzt werden sollte. Für Flächen größer als 650 Quadratmeter empfiehlt es sich, auf das nächstgrößere Modell zu wechseln. Während des Mähvorgangs müssen die Akkus für das Mähen von 650 qm gepflegter Rasenfläche möglicherweise nachgeladen werden.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8915969",
-        "seo": {
-          "texts": [
-            {
-              "title": "CMI Spindelrasenmäher C-HS-30: Ein effizienter Hand-Rasenmäher für Ihren Garten",
-              "text": "<p class=\"justify\">Der CMI Spindelrasenmäher C-HS-30 ist ein hochwertiger Hand-Rasenmäher, der sich ideal für kleine bis mittelgroße Rasenflächen eignet. Mit einer Schnittbreite von 30 cm und einer stufenlos einstellbaren Schnitthöhe von 15 mm bis 42 mm bietet dieses Gartengerät eine zuverlässige und leise Art, Ihren Rasen zu pflegen.</p><p class=\"justify\">Besonders praktisch ist der integrierte 20-Liter-Auffangkorb, der das Schnittgut sicher auffängt und das Entleeren erleichtert. Die Schnitthöhenkontrollskala zeigt Ihnen jederzeit die gewählte Schnitthöhe an, sodass Sie stets den Überblick über Ihre Rasenpflege behalten. Der CMI Spindelrasenmäher C-HS-30 wurde speziell für Rasenflächen bis zu 100 m² entwickelt, wodurch er sich perfekt für kleine Gärten und Grünflächen eignet.</p><p class=\"justify\">Der C-HS-30 zeichnet sich durch seine Stabilität und Robustheit aus und garantiert so eine lange Lebensdauer. Die hochwertigen Materialien gewährleisten eine einfache Handhabung und Wartung des Geräts, sodass Sie viele Jahre Freude an Ihrem gepflegten Rasen haben können. Zudem ist der Hand-Rasenmäher leicht und einfach zu manövrieren, selbst auf unebenen Flächen.</p><p class=\"justify\">Mit dem CMI Spindelrasenmäher C-HS-30 investieren Sie in ein Gartengerät, das nicht nur effizient und leistungsstark ist, sondern auch umweltfreundlich. Im Vergleich zu herkömmlichen Benzin- oder Elektro-Rasenmähern arbeitet dieser Hand-Rasenmäher geräuscharm und verursacht keinen CO2-Ausstoß. So tragen Sie aktiv zum Umweltschutz bei und genießen gleichzeitig ein hervorragendes Mähergebnis.</p><p class=\"justify\">Zusammenfassend ist der CMI Spindelrasenmäher C-HS-30 eine hervorragende Wahl für alle, die einen zuverlässigen, umweltfreundlichen und effizienten Hand-Rasenmäher suchen. Mit diesem Gerät steht einer gepflegten, sauber geschnittenen Rasenfläche nichts mehr im Wege.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1232966",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX-TOOLS Akku-Grasscheren-Set 1 Power System: Vielseitiges Gartengerät",
-              "text": "<p class=\"justify\">Mit dem LUX-TOOLS Akku-Grasscheren-Set 1 Power System erhalten Sie ein hochwertiges und vielseitiges Gartengerät für verschiedenste Anwendungen im heimischen Garten. Das Komplett-Set beinhaltet eine Gras- und Strauchschere, einen teleskopierbaren Stiel und einen Radsatz, der leichtes Arbeiten ohne Bücken ermöglicht. Ob für saubere Kantenschnitte oder präzises Zuschneiden von Sträuchern – dieses Grasscheren-Set ist die optimale Lösung für Ihre Gartenpflege.</p><p class=\"justify\">Die LUX-TOOLS Akku-Grasscheren sind mit einem 20V 2Ah-Akku aus dem LUX 1 Power System ausgestattet, der eine hohe Leistung und lange Laufzeiten ermöglicht. So können Sie Ihre Gartenarbeiten ohne störendes Kabel durchführen. Der werkzeuglose Wechsel von der Gras- zur Strauchschere sorgt für Flexibilität bei der Anwendung und spart Zeit.</p><p class=\"justify\">Dank lasergeschliffener Klingen erzielen Sie mit dem LUX Akku-Grasscheren-Set 1 Power System ein präzises und sauberes Schnittergebnis an Sträuchern und Rasenkanten. Die hochwertige Verarbeitung und die qualitative Marke LUX-TOOLS garantieren Ihnen zudem eine lange Lebensdauer des Geräts.</p><p class=\"justify\">Das LUX-TOOLS Akku-Grasscheren-Set 1 Power System ist eine hervorragende Wahl für Hobbygärtner und Profis gleichermaßen. Die einfache Handhabung, Flexibilität und Qualität dieses Grasscheren-Sets werden Ihre Gartenarbeit erleichtern und zu exzellenten Ergebnissen führen. Entdecken Sie das LUX-TOOLS Akku-Grasscheren-Set 1 Power System und lassen Sie sich von seiner Vielseitigkeit und Leistungsfähigkeit überzeugen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "1214758",
-        "seo": {
-          "texts": [
-            {
-              "title": "Aspen 2-Takt-Gemisch 5 l: Umweltschonender Kraftstoff für 2-Taktmotoren",
-              "text": "<p class=\"justify\">Das Aspen 2-Takt-Gemisch 5 l ist ein umweltschonender Kraftstoff für 2-Taktmotoren, der aus Alkylatbenzin mit 2 % biologisch abbaubarem Zweitaktöl besteht. Es eignet sich hervorragend für den Betrieb von Kettensägen, Freischneidern, Heckenscheren, Rasentrimmern und vielen weiteren Gartengeräten und -maschinen. Das Gemisch ist besonders schonend für Mensch, Maschine und Umwelt und bietet eine Vielzahl von Vorteilen gegenüber herkömmlichen Kraftstoffen.</p><p class=\"justify\">Einer der Hauptvorteile des Aspen 2-Takt-Gemischs ist seine fast schadstofffreie Zusammensetzung. Es enthält kaum Benzol, Aromaten, Schwefel, Blei oder Ethanol, wodurch die Gesundheitsrisiken bei der Verwendung minimiert werden. Das bedeutet, dass Sie Ihre Gartenmaschinen bedenkenlos betanken können, ohne sich Gedanken über Kopfschmerzen oder Übelkeit machen zu müssen.</p><p class=\"justify\">Das 2-Takt-Gemisch trägt auch zur Schonung Ihrer Maschinen bei, da es eine saubere Verbrennung ermöglicht. Es enthält keine gesättigten Kohlenwasserstoffe, sodass Ventile und Kolben frei gehalten werden. Das Ergebnis ist ein geringerer Wartungsaufwand und ein sauberer Motor, der optimale Schmiereigenschaften bei allen Motortemperaturen bietet.</p><p class=\"justify\">Darüber hinaus bietet das Aspen 2-Takt-Gemisch 5 l einen leichten Start, einen effizienten und gleichmäßigen Lauf sowie einen geringeren Motorverschleiß. Es ist zudem über einen längeren Zeitraum lagerstabil, so dass Sie es ohne Qualitätsverluste von bis zu 5 Jahren aufbewahren können.</p><p class=\"justify\">Das Aspen 2-Takt-Gemisch 5 l ist eine ausgezeichnete Wahl für alle, die ihre Gartengeräte sowie die Umwelt schonen und gleichzeitig von einer hervorragenden Leistung profitieren möchten. Erwägen Sie daher dieses umweltschonende Gemisch für Ihren nächsten Tankvorgang bei Kettensägen und anderen Gartengeräten der Kategorie Zubehör für Kettensägen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2905057",
-        "seo": {
-          "texts": [
-            {
-              "title": "LUX Ersatzmesser für T 372 für Bosch ART 26 LI und weitere",
-              "text": "<p class=\"justify\">Wer seinen Rasentrimmer von Bosch effektiv und dauerhaft nutzen möchte, sollte sich die LUX-TOOLS Ersatzmesser für T 372 genauer ansehen. Diese hochwertigen Ersatzmesser sind nicht nur für den Bosch ART 26 LI, sondern auch für weitere Modelle geeignet. Sie garantieren eine hervorragende Schneidleistung und eine lange Lebensdauer, damit Sie in Ihrem Garten stets beste Ergebnisse erzielen können.</p><p class=\"justify\">Die LUX Ersatzmesser verwenden Sie an Ihrem Rasentrimmer, sobald sich die Schneidkraft der verwendeten Messer spürbar reduziert. Nach dem Wechseln können Sie direkt weiterarbeiten, um den Rasen an schwer zugänglichen Stellen auf die perfekte Höhe zu trimmen. Typische Einsatzbereiche sind Ränder am Mauerwerk oder der Nahbereich um Zierpflanzen herum. Das hochwertige Basismaterial Polyamid sorgt für eine exzellente Schneidkraft und hat sich bei der Rasenpflege vielfach bewährt.</p><p class=\"justify\">Die Ersatzmesser entsprechen in puncto Qualität den Originalbauteilen und punkten mit hohen Standzeiten. Trotzdem sollten Sie den Kontakt mit herumliegenden Steinen vermeiden, da dadurch Bruchgefahr besteht. Der Austausch der Messer erfolgt, indem Sie die benutzten Messer aus der Schneidplatte herauslösen und die gewünschte Anzahl an Ersatzmessern einsetzen und fixieren. Die exakte und sichere Vorgehensweise entnehmen Sie bitte der Bedienungsanleitung Ihres Rasentrimmers. Der Schnittkreis beträgt 26 cm.</p><p class=\"justify\">Passend für die folgenden Bosch Akku-Rasentrimmer: C10ART 26 Accutrim, ART 26 Easytrim Accu und ART 26 LI. Die LUX-TOOLS Ersatzmesser für T 372 für Bosch ART 26 LI und weitere Modelle bieten Ihnen eine solide Lösung für die regelmäßige Rasenpflege. Für einen gepflegten Garten greifen Sie auf diese zuverlässigen Ersatzmesser zurück, die Ihnen eine präzise und kraftvolle Trimmarbeit ermöglichen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - eine große Auswahl",
-    "defaultMetaDescription": "$KATEGORIE bei uns günstig kaufen! Gartengeräte & Gartenmaschinen für jeden Anwendungsbereich | Hochwertige Produkte | Schnelle Lieferung.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "7443070",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ersatzschraube für CMI Elektro-Rasenmäher C-ERM-1200/32 3",
+                            "text": "<p class=\"justify\">Die Ersatzschraube für den CMI Elektro-Rasenmäher C-ERM-1200/32 3 ist ein unverzichtbares Zubehör für Rasenmäherliebhaber. Sie wurde speziell dafür entwickelt, um die Leistung und die Lebensdauer Ihres CMI Elektro-Rasenmähers zu erhöhen. Mit der GTIN13 4007875550551 gehört dieses Produkt zur Kategorie Zubehör für Rasenmäher und fällt unter die Marke Sonstige.</p><p class=\"justify\">Die Ersatzschraube ist ideal geeignet, um den Holm Ihres CMI Elektro-Rasenmähers C-ERM-1200/32 3 sicher zu befestigen. Durch ihren Einsatz ist gewährleistet, dass Ihr Rasenmäher stets stabil und einsatzbereit ist. Die Montage der Schraube gestaltet sich einfach und unkompliziert, somit benötigt man nur wenig Zeit und Aufwand, um optimale Ergebnisse zu erhalten.</p><p class=\"justify\">In der Kategorie Garten & Freizeit, speziell bei Gartengeräten & Gartenmaschinen, spielt die Ersatzschraube eine wichtige Rolle, um den Elektro-Rasenmäher auf einem hohen Leistungsniveau zu halten. Mit einer durchschnittlichen Bewertung von 5 Sternen von insgesamt 67 Rezensionen zeigt sich, dass dieses Produkt seinen Benutzern gute Dienste leistet und von hoher Qualität ist.</p><p class=\"justify\">Als essentieller Bestandteil Ihres Elektro-Rasenmähers C-ERM-1200/32 3 gewährleistet die Ersatzschraube ein langfristig zufriedenstellendes Ergebnis bei der Pflege Ihres Gartens. Zu einem äußerst attraktiven Preis von 1,99 € stellt diese Schraube eine lohnenswerte Investition dar, die die Langlebigkeit und Stabilität Ihres Rasenmähers maßgeblich beeinflusst.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8713141",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Yardforce Mähroboter MowBest 805",
+                            "text": "<p class=\"justify\">Der Yardforce Mähroboter MowBest 805 ist die ideale Lösung für die Pflege Ihres Gartens. Er ist leistungsstark und einfach zu bedienen, sodass Ihre Rasenflächen immer perfekt aussehen. Dieses Gerät eignet sich besonders gut für komplizierte Flächen bis zu 250 m² und ist in der Lage, Steigungen von bis zu 30% zu bewältigen. Dadurch wird sicher ein akkurater Schnitt gewährleistet, auch bei unebenem Gelände.</p><p class=\"justify\">Der Mähroboter ist mit einem Lithium-Ionen-Akku (20 V/2 Ah) ausgestattet, der für ausreichend Leistung sorgt. Die eingebauten Hebe- und Kippsensoren sorgen für zusätzliche Sicherheit, indem sie die Messer automatisch stoppen, wenn der Mähroboter angehoben oder gekippt wird. Durch das innovative Mulch-Prinzip fällt das fein gehäckselte Gras zurück auf den Boden und versorgt diesen auf natürliche Weise mit wichtigen Nährstoffen und Feuchtigkeit.</p><p class=\"justify\">Der Yardforce Mähroboter MowBest 805 ist sehr benutzerfreundlich. Das intuitive Bedienfeld ermöglicht Ihnen, schnell und unkompliziert alle notwendigen Einstellungen vorzunehmen. So können Sie schnell die gewünschten Schnitthöhen und Mähpläne einrichten, um das Gerät an Ihre individuellen Bedürfnisse anzupassen.</p><p class=\"justify\">Im Lieferumfang des Yardforce MowBest 805 sind neben dem Mähroboter selbst, eine Ladestation, 80 m Begrenzungskabel, 100 Stück Befestigungsnägel, 9 m Netzkabel, 3 Ersatzmesser, 3 Ersatzschrauben, 3 Kabelsteckverbinder, ein Abstandhalter und ein Lineal sowie eine Bedienungsanleitung enthalten. Damit sind Sie voll ausgestattet, um Ihren Garten sicher und effizient zu pflegen.</p><p class=\"justify\">Insgesamt bietet der Yardforce Mähroboter MowBest 805 eine optimale Lösung für die Rasenpflege in Ihrem privaten Garten oder auf Ihrem Firmengelände. Er ist leistungsstark, einfach zu bedienen und bietet zahlreiche Einstellungsmöglichkeiten, um Ihr Grün in Bestform zu halten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9410275",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Akku-Heckenschere 1 PowerSystem A-HS-20/52 - Leistungsstark und komfortabel",
+                            "text": "<p class=\"justify\">Die LUX-TOOLS Akku-Heckenschere 1 PowerSystem A-HS-20/52 ist das ideale Gartengerät für geräuscharmes und schnelles Stutzen, Trimmen und Schneiden von Hecken und Büschen. Durch die kabellose Nutzung ermöglicht sie maximale Bewegungsfreiheit und erleichtert somit auch großflächige Heckenschnitte. Die Akku-Heckenschere ist kompatibel mit dem LUX 1 PowerSystem und wird von einem 20 V (18 V nominal) Lithium-Ionen Akku mit 2 Ah oder 4 Ah betrieben. Beachten Sie, dass der Akku und das Schnellladegerät separat erhältlich sind und ein 2 Ah Akku empfohlen wird.</p><p class=\"justify\">Sicherheit und Komfort stehen bei dieser Heckenschere im Vordergrund. Ausgestattet mit einer elektronischen Sicherheitsbremse und einem Anschlagsschutz sorgt sie für ein sicheres Arbeiten. Der Softgrip-Handgriff und der um 90° in beide Richtungen drehbare hintere Griff ermöglichen eine angenehme Handhabung und ein ergonomisches Arbeiten. Die beidseitig schneidenden Messer haben eine Schnittlänge von 52 cm und eine maximale Schnittstärke von 14 mm. Dadurch ist sie ideal für breite Hecken geeignet und ermöglicht bis zu 2.200 Schnitte pro Minute.</p><p class=\"justify\">Das 1 PowerSystem von LUX-TOOLS vereint alle wichtigen Anwendungen für Haus und Garten in einem System – so sind verschiedenste Akkus und Ladegeräte nicht mehr nötig. Sogar leistungsstarke 40 V-Gartenmaschinen können mit zwei 20 Volt-Akkus durch die Twin-Power-Technik betrieben werden. Die neueste Akkugeneration zeichnet sich durch optimale Ladesteuerung, das Lufttunnel-System zur Akku-Kühlung, ein langlebiges Gehäusedesign und hochwertige Akkuzellen aus. Dadurch bietet das 1 PowerSystem von LUX-TOOLS zuverlässige und sichere Lösungen für anspruchsvolle Arbeiten in Haus und Garten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9464561",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bosch Elektro-Rasenmäher AdvancedRotak 690 mit 50 l Fangbox und Mulchkit 1.800 W",
+                            "text": "<p class=\"justify\">Der Bosch Elektro-Rasenmäher AdvancedRotak 690 ist ein leistungsstarkes Gartengerät, das sich perfekt für größere Gärten mit einer Rasenfläche von bis zu 700 m² eignet. Mit einer Leistung von 1.800 W und einer Schnittbreite von 42 cm ermöglicht dieser Elektro-Rasenmäher müheloses Mähen und ein makelloses Ergebnis. Dank der ProSilence-Technologie gehört der AdvancedRotak 690 zu den leisesten Hochleistungsmähern seiner Klasse und reduziert die Betriebsgeräusche um bis zu 75% auf nur 89 dB.</p><p class=\"justify\">Einer der vielen Vorteile dieses Elektro-Rasenmähers ist die siebenfache Schnitthöhenverstellung, die auf Tastendruck von 20 mm bis 80 mm eingestellt werden kann. Das Gerät ist zudem auf Komfort und Ergonomie ausgelegt. Der ErgoSlide-Griff sorgt für weniger Anstrengung bei maximaler Kontrolle beim Mähen, während der stufenlos einstellbare Teleskopholm sich leicht auf die Körpergröße des Benutzers einstellen lässt. Dies trägt dazu bei, die Körperhaltung zu verbessern und die Beanspruchung von Armen und Rücken zu verringern.</p><p class=\"justify\">Im Lieferumfang des Bosch Elektro-Rasenmähers AdvancedRotak 690 ist auch ein praktisches Mulchkit enthalten. Mit dem MultiMulch-System können die im Grasschnitt enthaltenen Nährstoffe dem Rasen wieder zugeführt werden, indem der Schnitt von der Grasfangbox direkt an die Rasenwurzeln geführt wird. So dient der Grasschnitt zusätzlich als natürlicher Dünger für den Rasen. Falls nicht gemulcht werden sollte, kann die 50 l Fangbox verwendet werden, um den Rasenschnitt aufzufangen, ohne häufig entleert werden zu müssen.</p><p class=\"justify\">Der Bosch Elektro-Rasenmäher AdvancedRotak 690 ist ein idealer Begleiter für alle Gartenliebhaber, die Wert auf Leistung, Komfort und eine effiziente Gartengestaltung legen. Dieses Gerät zeichnet sich durch seine vielen Vorteile und eine qualitativ hochwertige Verarbeitung aus und ermöglicht entspanntes Rasenmähen ohne große Anstrengungen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9588534",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS",
+                            "text": "<p class=\"justify\">Das LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS ist eine optimale Lösung für die umweltfreundliche und effiziente Rasenpflege. Mit seiner kraftvollen 20 V (18 V nominal) und 4 Ah Lithium-Ionen-Akku-Antrieb bietet dieser Rasenmäher ausreichend Leistung für bis zu 80 Minuten Betriebszeit und ermöglicht ein geräuscharmes Arbeiten ohne störende Kabel. Mit einer Schnittbreite von 33 cm ist dieses Modell ideal für Rasenflächen bis zu 150 m² geeignet.</p><p class=\"justify\">Die fünffach einstellbare Schnitthöhenverstellung ermöglicht Anpassungen von 25 mm bis 65 mm, um in allen Graslängen effektiv zu arbeiten. Der solide Stahlholm ist platzsparend zusammenklappbar für einen einfachen Transport und der integrierte Grasfangkorb fasst ein Volumen von 30 Litern. Das mitgelieferte Schnellladegerät lädt den Akku in nur 2 Stunden wieder auf, sodass keine langen Wartezeiten entstehen.</p><p class=\"justify\">Das Besondere an diesem Rasenmäher ist das LUX 1 PowerSystem. Es ermöglicht die Verwendung eines einzigen Akkutyps für alle wichtigen Anwendungen rund um Haus und Garten, indem alle Geräte der Serie mit dem gleichen 20 V (18 V nominal) Lithium-Ionen-Akku betrieben werden. Dies spart Kosten und vereinfacht die Handhabung der Geräte. Die Twin-Power-Technik erlaubt zudem den Betrieb leistungsstarker 40 V-Gartenmaschinen mit zwei 20 Volt-Akkus.</p><p class=\"justify\">Entdecken Sie die kabellose Freiheit für Haus und Garten mit dem LUX Akku-Rasenmäher-Set 1 Power System A-RM-1x20/4/33 von LUX-TOOLS und genießen Sie eine zuverlässige und professionelle Rasenpflege. Mit seinen 210 Bewertungen und 4 Sternen ist dieses Modell eine hervorragende Wahl für alle, die ein leistungsstarkes und praktisches Gartengerät suchen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9400706",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46",
+                            "text": "<p class=\"justify\">Das LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46 (SKU: 9400706) ist ein leistungsstarkes und umweltfreundliches Akku-Rasenmäher-Set, ideal für den Einsatz in Gärten und auf Rasenflächen. Es gehört zur Kategorie der Akku-Rasenmäher und kombiniert modernste Technologie mit hohem Bedienkomfort, um die Gartenarbeit zu erleichtern.</p><p class=\"justify\">Das Set beinhaltet einen Rasenmäher mit robustem Stahlgehäuse und einer Schnittbreite von 46 cm, der breite Bahnen schneidet und somit das Mähen großer Rasenflächen beschleunigt. Die Flächenempfehlung für dieses Modell beträgt 800 qm. Es stehen 6 verschiedene Schnittstufen zur Verfügung, die von 25 mm bis 75 mm reichen, um ein optimales Schnittbild zu erzielen. Der Hinterrad-Antrieb bietet zusätzliches Hilfskraft, sodass nicht mehr geschoben werden muss.</p><p class=\"justify\">Das LUX-TOOLS A-RM-2x20/46-Set ist mit zwei hochwertigen Lithium-Ionen-Akkus ausgestattet, die jeweils eine Spannung von 20 V (18 V nominal) und eine Leistung von 4 Ah haben. Dank der Twin-Power-Technik werden die beiden Akkus gleichzeitig genutzt und ihre Spannung auf 40 V erhöht. Ein praktisches Doppelladegerät sorgt für das schnelle Aufladen beider Akkus innerhalb von zwei Stunden.</p><p class=\"justify\">Der leistungsstarke Akku-Rasenmäher ist Teil des LUX 1 PowerSystems, einer praktischen Serie von Gartengeräten, die alle mit den beiden im Set enthaltenen 20 V Akkus betrieben werden können. Das bedeutet maximale Flexibilität und Benutzerfreundlichkeit, da die Akkus bei verschiedenen Geräten eingesetzt werden können.</p><p class=\"justify\">Mit dem LUX-TOOLS Akku-Rasenmäher-Set 1 PowerSystem A-RM-2x20/46 erleben Sie eine kabellose und abgasfreie Rasenpflege, bei der Sie Ihren Rasen schnell, effizient und umweltschonend schneiden können. Profitieren Sie von den zahlreichen Vorteilen dieses Sets und genießen Sie ein perfekt gepflegtes Grün in Ihrem Garten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1233188",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Akku-Rasenmäher 1 Power System A-RM 2x20/43 mit Radantrieb",
+                            "text": "<p class=\"justify\">Der LUX-TOOLS Akku-Rasenmäher 1 Power System A-RM 2x20/43 mit Radantrieb ist ein innovatives Gartengerät, das Ihnen dabei hilft, Ihren Rasen mühelos und effizient zu pflegen. Dank der leistungsstarken Akkutechnologie und dem zuschaltbaren Radantrieb gestaltet sich das Rasenmähen komfortabel und weniger anstrengend als mit herkömmlichen Rasenmähern.</p><p class=\"justify\">In Situationen, in denen der Akku Höchstleistung erbringen muss, gibt es mehrere Faktoren, die seine Leistung beeinflussen können. Der optimale Fall ist ein trockener, gepflegter Rasen, der wöchentlich gemäht wird. Bei höherem, feuchtem oder nassem Gras, unebenen Flächen oder beim Mähen mit Radantrieb wird mehr Leistung vom Akku gefordert, wodurch er sich schneller entleert und eventuell neu aufgeladen werden muss.</p><p class=\"justify\">Das praktische Doppelladegerät ermöglicht ein schnelles Aufladen beider Akkus innerhalb von zwei Stunden. Die Schnittbreite beträgt 43 cm, und der Akku-Rasenmäher eignet sich für Flächen bis zu 650 Quadratmeter. Die zentral verstellbare Schnitthöhenverstellung lässt sich einfach zwischen 25 und 75 mm einstellen.</p><p class=\"justify\">Der Akku-Rasenmäher ist Teil des LUX 1 PowerSystems, was bedeutet, dass die im Set enthaltenen 20V Akkus mit allen Geräten dieser Serie kompatibel sind. Es wird empfohlen, die mitgelieferten 4 Ah Akkus zu verwenden. Damit das Gerät optimal funktioniert, sollten beide Akkus den gleichen Ladestand haben, da ein schwächer geladener Akku den stärker geladenen Akku sonst ausbremst.</p><p class=\"justify\">Die angegebene Schnittflächenempfehlung bezieht sich auf die empfohlene Fläche, für die der Rasenmäher in dieser Schnittbreite eingesetzt werden sollte. Für Flächen größer als 650 Quadratmeter empfiehlt es sich, auf das nächstgrößere Modell zu wechseln. Während des Mähvorgangs müssen die Akkus für das Mähen von 650 qm gepflegter Rasenfläche möglicherweise nachgeladen werden.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8915969",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "CMI Spindelrasenmäher C-HS-30: Ein effizienter Hand-Rasenmäher für Ihren Garten",
+                            "text": "<p class=\"justify\">Der CMI Spindelrasenmäher C-HS-30 ist ein hochwertiger Hand-Rasenmäher, der sich ideal für kleine bis mittelgroße Rasenflächen eignet. Mit einer Schnittbreite von 30 cm und einer stufenlos einstellbaren Schnitthöhe von 15 mm bis 42 mm bietet dieses Gartengerät eine zuverlässige und leise Art, Ihren Rasen zu pflegen.</p><p class=\"justify\">Besonders praktisch ist der integrierte 20-Liter-Auffangkorb, der das Schnittgut sicher auffängt und das Entleeren erleichtert. Die Schnitthöhenkontrollskala zeigt Ihnen jederzeit die gewählte Schnitthöhe an, sodass Sie stets den Überblick über Ihre Rasenpflege behalten. Der CMI Spindelrasenmäher C-HS-30 wurde speziell für Rasenflächen bis zu 100 m² entwickelt, wodurch er sich perfekt für kleine Gärten und Grünflächen eignet.</p><p class=\"justify\">Der C-HS-30 zeichnet sich durch seine Stabilität und Robustheit aus und garantiert so eine lange Lebensdauer. Die hochwertigen Materialien gewährleisten eine einfache Handhabung und Wartung des Geräts, sodass Sie viele Jahre Freude an Ihrem gepflegten Rasen haben können. Zudem ist der Hand-Rasenmäher leicht und einfach zu manövrieren, selbst auf unebenen Flächen.</p><p class=\"justify\">Mit dem CMI Spindelrasenmäher C-HS-30 investieren Sie in ein Gartengerät, das nicht nur effizient und leistungsstark ist, sondern auch umweltfreundlich. Im Vergleich zu herkömmlichen Benzin- oder Elektro-Rasenmähern arbeitet dieser Hand-Rasenmäher geräuscharm und verursacht keinen CO2-Ausstoß. So tragen Sie aktiv zum Umweltschutz bei und genießen gleichzeitig ein hervorragendes Mähergebnis.</p><p class=\"justify\">Zusammenfassend ist der CMI Spindelrasenmäher C-HS-30 eine hervorragende Wahl für alle, die einen zuverlässigen, umweltfreundlichen und effizienten Hand-Rasenmäher suchen. Mit diesem Gerät steht einer gepflegten, sauber geschnittenen Rasenfläche nichts mehr im Wege.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1232966",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX-TOOLS Akku-Grasscheren-Set 1 Power System: Vielseitiges Gartengerät",
+                            "text": "<p class=\"justify\">Mit dem LUX-TOOLS Akku-Grasscheren-Set 1 Power System erhalten Sie ein hochwertiges und vielseitiges Gartengerät für verschiedenste Anwendungen im heimischen Garten. Das Komplett-Set beinhaltet eine Gras- und Strauchschere, einen teleskopierbaren Stiel und einen Radsatz, der leichtes Arbeiten ohne Bücken ermöglicht. Ob für saubere Kantenschnitte oder präzises Zuschneiden von Sträuchern – dieses Grasscheren-Set ist die optimale Lösung für Ihre Gartenpflege.</p><p class=\"justify\">Die LUX-TOOLS Akku-Grasscheren sind mit einem 20V 2Ah-Akku aus dem LUX 1 Power System ausgestattet, der eine hohe Leistung und lange Laufzeiten ermöglicht. So können Sie Ihre Gartenarbeiten ohne störendes Kabel durchführen. Der werkzeuglose Wechsel von der Gras- zur Strauchschere sorgt für Flexibilität bei der Anwendung und spart Zeit.</p><p class=\"justify\">Dank lasergeschliffener Klingen erzielen Sie mit dem LUX Akku-Grasscheren-Set 1 Power System ein präzises und sauberes Schnittergebnis an Sträuchern und Rasenkanten. Die hochwertige Verarbeitung und die qualitative Marke LUX-TOOLS garantieren Ihnen zudem eine lange Lebensdauer des Geräts.</p><p class=\"justify\">Das LUX-TOOLS Akku-Grasscheren-Set 1 Power System ist eine hervorragende Wahl für Hobbygärtner und Profis gleichermaßen. Die einfache Handhabung, Flexibilität und Qualität dieses Grasscheren-Sets werden Ihre Gartenarbeit erleichtern und zu exzellenten Ergebnissen führen. Entdecken Sie das LUX-TOOLS Akku-Grasscheren-Set 1 Power System und lassen Sie sich von seiner Vielseitigkeit und Leistungsfähigkeit überzeugen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "1214758",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Aspen 2-Takt-Gemisch 5 l: Umweltschonender Kraftstoff für 2-Taktmotoren",
+                            "text": "<p class=\"justify\">Das Aspen 2-Takt-Gemisch 5 l ist ein umweltschonender Kraftstoff für 2-Taktmotoren, der aus Alkylatbenzin mit 2 % biologisch abbaubarem Zweitaktöl besteht. Es eignet sich hervorragend für den Betrieb von Kettensägen, Freischneidern, Heckenscheren, Rasentrimmern und vielen weiteren Gartengeräten und -maschinen. Das Gemisch ist besonders schonend für Mensch, Maschine und Umwelt und bietet eine Vielzahl von Vorteilen gegenüber herkömmlichen Kraftstoffen.</p><p class=\"justify\">Einer der Hauptvorteile des Aspen 2-Takt-Gemischs ist seine fast schadstofffreie Zusammensetzung. Es enthält kaum Benzol, Aromaten, Schwefel, Blei oder Ethanol, wodurch die Gesundheitsrisiken bei der Verwendung minimiert werden. Das bedeutet, dass Sie Ihre Gartenmaschinen bedenkenlos betanken können, ohne sich Gedanken über Kopfschmerzen oder Übelkeit machen zu müssen.</p><p class=\"justify\">Das 2-Takt-Gemisch trägt auch zur Schonung Ihrer Maschinen bei, da es eine saubere Verbrennung ermöglicht. Es enthält keine gesättigten Kohlenwasserstoffe, sodass Ventile und Kolben frei gehalten werden. Das Ergebnis ist ein geringerer Wartungsaufwand und ein sauberer Motor, der optimale Schmiereigenschaften bei allen Motortemperaturen bietet.</p><p class=\"justify\">Darüber hinaus bietet das Aspen 2-Takt-Gemisch 5 l einen leichten Start, einen effizienten und gleichmäßigen Lauf sowie einen geringeren Motorverschleiß. Es ist zudem über einen längeren Zeitraum lagerstabil, so dass Sie es ohne Qualitätsverluste von bis zu 5 Jahren aufbewahren können.</p><p class=\"justify\">Das Aspen 2-Takt-Gemisch 5 l ist eine ausgezeichnete Wahl für alle, die ihre Gartengeräte sowie die Umwelt schonen und gleichzeitig von einer hervorragenden Leistung profitieren möchten. Erwägen Sie daher dieses umweltschonende Gemisch für Ihren nächsten Tankvorgang bei Kettensägen und anderen Gartengeräten der Kategorie Zubehör für Kettensägen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2905057",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "LUX Ersatzmesser für T 372 für Bosch ART 26 LI und weitere",
+                            "text": "<p class=\"justify\">Wer seinen Rasentrimmer von Bosch effektiv und dauerhaft nutzen möchte, sollte sich die LUX-TOOLS Ersatzmesser für T 372 genauer ansehen. Diese hochwertigen Ersatzmesser sind nicht nur für den Bosch ART 26 LI, sondern auch für weitere Modelle geeignet. Sie garantieren eine hervorragende Schneidleistung und eine lange Lebensdauer, damit Sie in Ihrem Garten stets beste Ergebnisse erzielen können.</p><p class=\"justify\">Die LUX Ersatzmesser verwenden Sie an Ihrem Rasentrimmer, sobald sich die Schneidkraft der verwendeten Messer spürbar reduziert. Nach dem Wechseln können Sie direkt weiterarbeiten, um den Rasen an schwer zugänglichen Stellen auf die perfekte Höhe zu trimmen. Typische Einsatzbereiche sind Ränder am Mauerwerk oder der Nahbereich um Zierpflanzen herum. Das hochwertige Basismaterial Polyamid sorgt für eine exzellente Schneidkraft und hat sich bei der Rasenpflege vielfach bewährt.</p><p class=\"justify\">Die Ersatzmesser entsprechen in puncto Qualität den Originalbauteilen und punkten mit hohen Standzeiten. Trotzdem sollten Sie den Kontakt mit herumliegenden Steinen vermeiden, da dadurch Bruchgefahr besteht. Der Austausch der Messer erfolgt, indem Sie die benutzten Messer aus der Schneidplatte herauslösen und die gewünschte Anzahl an Ersatzmessern einsetzen und fixieren. Die exakte und sichere Vorgehensweise entnehmen Sie bitte der Bedienungsanleitung Ihres Rasentrimmers. Der Schnittkreis beträgt 26 cm.</p><p class=\"justify\">Passend für die folgenden Bosch Akku-Rasentrimmer: C10ART 26 Accutrim, ART 26 Easytrim Accu und ART 26 LI. Die LUX-TOOLS Ersatzmesser für T 372 für Bosch ART 26 LI und weitere Modelle bieten Ihnen eine solide Lösung für die regelmäßige Rasenpflege. Für einen gepflegten Garten greifen Sie auf diese zuverlässigen Ersatzmesser zurück, die Ihnen eine präzise und kraftvolle Trimmarbeit ermöglichen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - eine große Auswahl",
+        "defaultMetaDescription": "$KATEGORIE bei uns günstig kaufen! Gartengeräte & Gartenmaschinen für jeden Anwendungsbereich | Hochwertige Produkte | Schnelle Lieferung.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Marktführer für Gartengeräte & Gartenmaschinen",
+        "defaultMetaDescription": "$HERSTELLER ist einer von vielen Top Herstellern in unserem Angebot! | Finden Sie ausgewählte Markenprodukte in unserem Shop! | Bestellen Sie zu fairen Preisen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Gartengeräte & Gartenmaschinen",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Gartengeräte & Gartenmaschinen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Gartengeräte & Gartenmaschinen Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Marktführer für Gartengeräte & Gartenmaschinen",
-    "defaultMetaDescription": "$HERSTELLER ist einer von vielen Top Herstellern in unserem Angebot! | Finden Sie ausgewählte Markenprodukte in unserem Shop! | Bestellen Sie zu fairen Preisen!",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Gartengeräte & Gartenmaschinen",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Gartengeräte & Gartenmaschinen Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Gartengeräte & Gartenmaschinen Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
